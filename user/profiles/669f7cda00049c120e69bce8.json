@@ -5264,25 +5264,25 @@
 				"Common": [
 					{
 						"Id": "BotReload",
-						"Progress": 800.0,
+						"Progress": 800,
 						"PointsEarnedDuringSession": 0,
 						"LastAccess": -2147483648
 					},
 					{
 						"Id": "BotSound",
-						"Progress": 4000.0,
+						"Progress": 4000,
 						"PointsEarnedDuringSession": 0,
 						"LastAccess": -2147483648
 					},
 					{
 						"Id": "Endurance",
-						"Progress": 5100.0,
+						"Progress": 5100,
 						"PointsEarnedDuringSession": 0,
 						"LastAccess": 1721728910
 					},
 					{
 						"Id": "Strength",
-						"Progress": 5100.0,
+						"Progress": 5100,
 						"PointsEarnedDuringSession": 0,
 						"LastAccess": 0
 					},
@@ -5330,7 +5330,7 @@
 					},
 					{
 						"Id": "Attention",
-						"Progress": 5100.0,
+						"Progress": 5100,
 						"PointsEarnedDuringSession": 0,
 						"LastAccess": 0
 					},
@@ -5432,13 +5432,13 @@
 					},
 					{
 						"Id": "Surgery",
-						"Progress": 5100.0,
+						"Progress": 5100,
 						"PointsEarnedDuringSession": 0,
 						"LastAccess": -2147483648
 					},
 					{
 						"Id": "CovertMovement",
-						"Progress": 5100.0,
+						"Progress": 5100,
 						"PointsEarnedDuringSession": 0,
 						"LastAccess": 0
 					},

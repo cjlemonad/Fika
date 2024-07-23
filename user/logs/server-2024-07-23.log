@@ -155,3 +155,75 @@
 [2024-07-23T11:32:55.407Z] info: 	[客户端请求] /client/match/group/invite/cancel-all
 [2024-07-23T11:32:55.430Z] info: 	[客户端请求] /client/game/logout
 [2024-07-23T11:32:55.432Z] debug: 	Saved 1 profiles, took: 1.47ms
+[2024-07-23T14:14:26.048Z] debug: 	Importing configs...
+[2024-07-23T14:14:26.091Z] info: 	Commit hash: 63420f7a7b59981efe64371857a86109c0e4c1c3
+[2024-07-23T14:14:26.091Z] info: 	Build date: 1721162040250
+[2024-07-23T14:14:26.125Z] info: 	模组加载器：正在加载1个客户端模组……
+[2024-07-23T14:14:26.128Z] warn: 	模组Fika-server2.2.1 不兼容当前版本的SPT。该模组是基于SPT：3.9.0 ，请检查该模组是否有更新的版本。你可能会遇到错误 - 且不会得到任何支持！
+[2024-07-23T14:14:26.143Z] info: 	模组：server 版本2.2.1 作者：Fika 已加载
+[2024-07-23T14:14:26.251Z] info: 	服务端：正在执行启动回调
+[2024-07-23T14:14:26.252Z] debug: 	OS: x64 | Windows 11 Pro | win32
+[2024-07-23T14:14:26.253Z] debug: 	CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz cores: 8
+[2024-07-23T14:14:26.253Z] debug: 	RAM: 15.84GB
+[2024-07-23T14:14:26.253Z] debug: 	PATH: QzpcQXBwbGljYXRpb25cRklLQVwzLjkuMi4wLjE0LjMwNjI2XFNQVC5TZXJ2ZXIuZXhl
+[2024-07-23T14:14:26.254Z] debug: 	PATH: QzpcQXBwbGljYXRpb25cRklLQVwzLjkuMi4wLjE0LjMwNjI2XFNQVC5TZXJ2ZXIuZXhl
+[2024-07-23T14:14:26.254Z] debug: 	Server: 3.9.2
+[2024-07-23T14:14:26.254Z] debug: 	Date: 1721162040250
+[2024-07-23T14:14:26.254Z] debug: 	Commit: 63420f7a7b59981efe64371857a86109c0e4c1c3
+[2024-07-23T14:14:26.255Z] info: 	正在导入数据库……
+[2024-07-23T14:14:26.465Z] debug: 	验证文件：SPT_Data/Server/database/locales/server/zh-cn.json失败
+[2024-07-23T14:14:31.242Z] info: 	数据库导入完成.
+[2024-07-23T14:14:31.266Z] debug: 	1 Profiles took: 1.63ms to load.
+[2024-07-23T14:14:35.952Z] succ: 	webserver已于http://127.0.0.1:6969启动
+[2024-07-23T14:14:35.952Z] succ: 	websocket启动于ws://127.0.0.1:6969
+[2024-07-23T14:14:35.953Z] succ: 	服务端正在运行, 玩的开心!!
+[2024-07-23T14:14:40.996Z] debug: 	Saved 1 profiles, took: 8.17ms
+[2024-07-23T14:15:19.278Z] debug: 	Importing configs...
+[2024-07-23T14:15:19.320Z] info: 	Commit hash: 63420f7a7b59981efe64371857a86109c0e4c1c3
+[2024-07-23T14:15:19.321Z] info: 	Build date: 1721162040250
+[2024-07-23T14:15:19.349Z] info: 	模组加载器：正在加载1个客户端模组……
+[2024-07-23T14:15:19.351Z] warn: 	模组Fika-server2.2.1 不兼容当前版本的SPT。该模组是基于SPT：3.9.0 ，请检查该模组是否有更新的版本。你可能会遇到错误 - 且不会得到任何支持！
+[2024-07-23T14:15:19.367Z] info: 	模组：server 版本2.2.1 作者：Fika 已加载
+[2024-07-23T14:15:19.476Z] info: 	服务端：正在执行启动回调
+[2024-07-23T14:15:19.477Z] debug: 	OS: x64 | Windows 11 Pro | win32
+[2024-07-23T14:15:19.478Z] debug: 	CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz cores: 8
+[2024-07-23T14:15:19.478Z] debug: 	RAM: 15.84GB
+[2024-07-23T14:15:19.478Z] debug: 	PATH: QzpcQXBwbGljYXRpb25cRklLQVwzLjkuMi4wLjE0LjMwNjI2XFNQVC5TZXJ2ZXIuZXhl
+[2024-07-23T14:15:19.478Z] debug: 	PATH: QzpcQXBwbGljYXRpb25cRklLQVwzLjkuMi4wLjE0LjMwNjI2XFNQVC5TZXJ2ZXIuZXhl
+[2024-07-23T14:15:19.478Z] debug: 	Server: 3.9.2
+[2024-07-23T14:15:19.478Z] debug: 	Date: 1721162040250
+[2024-07-23T14:15:19.479Z] debug: 	Commit: 63420f7a7b59981efe64371857a86109c0e4c1c3
+[2024-07-23T14:15:19.479Z] info: 	正在导入数据库……
+[2024-07-23T14:15:19.695Z] debug: 	验证文件：SPT_Data/Server/database/locales/server/zh-cn.json失败
+[2024-07-23T14:15:24.379Z] info: 	数据库导入完成.
+[2024-07-23T14:15:24.414Z] debug: 	1 Profiles took: 2.07ms to load.
+[2024-07-23T14:15:29.621Z] succ: 	webserver已于http://127.0.0.1:6969启动
+[2024-07-23T14:15:29.622Z] succ: 	websocket启动于ws://127.0.0.1:6969
+[2024-07-23T14:15:29.622Z] succ: 	服务端正在运行, 玩的开心!!
+[2024-07-23T14:15:34.657Z] debug: 	Saved 1 profiles, took: 10.46ms
+[2024-07-23T14:15:54.687Z] debug: 	Saved 1 profiles, took: 1.96ms
+[2024-07-23T14:16:14.717Z] debug: 	Saved 1 profiles, took: 1.79ms
+[2024-07-23T14:16:29.884Z] debug: 	Importing configs...
+[2024-07-23T14:16:29.929Z] info: 	Commit hash: 63420f7a7b59981efe64371857a86109c0e4c1c3
+[2024-07-23T14:16:29.930Z] info: 	Build date: 1721162040250
+[2024-07-23T14:16:29.969Z] info: 	模组加载器：正在加载1个客户端模组……
+[2024-07-23T14:16:29.973Z] warn: 	模组Fika-server2.2.1 不兼容当前版本的SPT。该模组是基于SPT：3.9.0 ，请检查该模组是否有更新的版本。你可能会遇到错误 - 且不会得到任何支持！
+[2024-07-23T14:16:29.992Z] info: 	模组：server 版本2.2.1 作者：Fika 已加载
+[2024-07-23T14:16:30.099Z] info: 	服务端：正在执行启动回调
+[2024-07-23T14:16:30.099Z] debug: 	OS: x64 | Windows 11 Pro | win32
+[2024-07-23T14:16:30.100Z] debug: 	CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz cores: 8
+[2024-07-23T14:16:30.100Z] debug: 	RAM: 15.84GB
+[2024-07-23T14:16:30.100Z] debug: 	PATH: QzpcQXBwbGljYXRpb25cRklLQVwzLjkuMi4wLjE0LjMwNjI2XFNQVC5TZXJ2ZXIuZXhl
+[2024-07-23T14:16:30.100Z] debug: 	PATH: QzpcQXBwbGljYXRpb25cRklLQVwzLjkuMi4wLjE0LjMwNjI2XFNQVC5TZXJ2ZXIuZXhl
+[2024-07-23T14:16:30.100Z] debug: 	Server: 3.9.2
+[2024-07-23T14:16:30.101Z] debug: 	Date: 1721162040250
+[2024-07-23T14:16:30.101Z] debug: 	Commit: 63420f7a7b59981efe64371857a86109c0e4c1c3
+[2024-07-23T14:16:30.102Z] info: 	正在导入数据库……
+[2024-07-23T14:16:30.308Z] debug: 	验证文件：SPT_Data/Server/database/locales/server/zh-cn.json失败
+[2024-07-23T14:16:34.829Z] info: 	数据库导入完成.
+[2024-07-23T14:16:34.863Z] debug: 	1 Profiles took: 4.59ms to load.
+[2024-07-23T14:16:39.617Z] succ: 	webserver已于http://127.0.0.1:6969启动
+[2024-07-23T14:16:39.618Z] succ: 	websocket启动于ws://127.0.0.1:6969
+[2024-07-23T14:16:39.618Z] succ: 	服务端正在运行, 玩的开心!!
+[2024-07-23T14:16:44.648Z] debug: 	Saved 1 profiles, took: 9.67ms
+[2024-07-23T14:17:04.814Z] debug: 	Saved 1 profiles, took: 1.72ms
