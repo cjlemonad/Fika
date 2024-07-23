@@ -417,3 +417,219 @@
 [2024-07-23T14:24:23.268Z] info: 	[客户端请求] /client/match/group/invite/cancel-all
 [2024-07-23T14:24:23.291Z] info: 	[客户端请求] /client/game/logout
 [2024-07-23T14:24:23.294Z] debug: 	Saved 1 profiles, took: 1.47ms
+[2024-07-23T14:30:00.743Z] debug: 	Importing configs...
+[2024-07-23T14:30:00.786Z] info: 	Commit hash: 63420f7a7b59981efe64371857a86109c0e4c1c3
+[2024-07-23T14:30:00.786Z] info: 	Build date: 1721162040250
+[2024-07-23T14:30:00.817Z] info: 	模组加载器：正在加载1个客户端模组……
+[2024-07-23T14:30:00.820Z] warn: 	模组Fika-server2.2.1 不兼容当前版本的SPT。该模组是基于SPT：3.9.0 ，请检查该模组是否有更新的版本。你可能会遇到错误 - 且不会得到任何支持！
+[2024-07-23T14:30:00.836Z] info: 	模组：server 版本2.2.1 作者：Fika 已加载
+[2024-07-23T14:30:00.954Z] info: 	服务端：正在执行启动回调
+[2024-07-23T14:30:00.955Z] debug: 	OS: x64 | Windows 11 Pro | win32
+[2024-07-23T14:30:00.955Z] debug: 	CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz cores: 8
+[2024-07-23T14:30:00.955Z] debug: 	RAM: 15.84GB
+[2024-07-23T14:30:00.955Z] debug: 	PATH: QzpcQXBwbGljYXRpb25cRklLQVwzLjkuMi4wLjE0LjMwNjI2XFNQVC5TZXJ2ZXIuZXhl
+[2024-07-23T14:30:00.956Z] debug: 	PATH: QzpcQXBwbGljYXRpb25cRklLQVwzLjkuMi4wLjE0LjMwNjI2XFNQVC5TZXJ2ZXIuZXhl
+[2024-07-23T14:30:00.956Z] debug: 	Server: 3.9.2
+[2024-07-23T14:30:00.956Z] debug: 	Date: 1721162040250
+[2024-07-23T14:30:00.956Z] debug: 	Commit: 63420f7a7b59981efe64371857a86109c0e4c1c3
+[2024-07-23T14:30:00.957Z] info: 	正在导入数据库……
+[2024-07-23T14:30:01.185Z] debug: 	验证文件：SPT_Data/Server/database/locales/server/zh-cn.json失败
+[2024-07-23T14:30:06.530Z] info: 	数据库导入完成.
+[2024-07-23T14:30:06.578Z] debug: 	1 Profiles took: 3.89ms to load.
+[2024-07-23T14:30:12.399Z] succ: 	webserver已于http://192.168.1.5:6969启动
+[2024-07-23T14:30:12.400Z] succ: 	websocket启动于ws://192.168.1.5:6969
+[2024-07-23T14:30:12.400Z] succ: 	服务端正在运行, 玩的开心!!
+[2024-07-23T14:30:17.448Z] debug: 	Saved 1 profiles, took: 10.56ms
+[2024-07-23T14:30:28.895Z] info: 	[客户端请求] /launcher/profile/login
+[2024-07-23T14:30:37.501Z] debug: 	Saved 1 profiles, took: 2.55ms
+[2024-07-23T14:30:57.544Z] debug: 	Saved 1 profiles, took: 2.28ms
+[2024-07-23T14:31:02.136Z] info: 	[客户端请求] /launcher/profile/login
+[2024-07-23T14:31:17.560Z] debug: 	Saved 1 profiles, took: 2.63ms
+[2024-07-23T14:31:37.580Z] debug: 	Saved 1 profiles, took: 2.42ms
+[2024-07-23T14:31:53.336Z] info: 	[客户端请求] /launcher/profile/login
+[2024-07-23T14:31:57.618Z] debug: 	Saved 1 profiles, took: 1.83ms
+[2024-07-23T14:32:09.377Z] info: 	[客户端请求] /singleplayer/bossconvert
+[2024-07-23T14:32:10.891Z] info: 	[客户端请求] /fika/client/config
+[2024-07-23T14:32:11.073Z] info: 	[客户端请求] /fika/natpunchserver/config
+[2024-07-23T14:32:12.092Z] info: 	[客户端请求] /singleplayer/airdrop/config
+[2024-07-23T14:32:12.176Z] info: 	[客户端请求] /singleplayer/settings/bot/difficulties/
+[2024-07-23T14:32:12.320Z] info: 	[客户端请求] /singleplayer/settings/bot/difficulty/core/core
+[2024-07-23T14:32:17.659Z] debug: 	Saved 1 profiles, took: 2.73ms
+[2024-07-23T14:32:20.701Z] info: 	[客户端请求] /singleplayer/settings/version
+[2024-07-23T14:32:20.709Z] info: 	[客户端请求] /singleplayer/release
+[2024-07-23T14:32:20.719Z] info: 	[客户端请求] /singleplayer/enableBSGlogging
+[2024-07-23T14:32:24.359Z] info: 	[客户端请求] /singleplayer/bundles
+[2024-07-23T14:32:36.030Z] info: 	[客户端请求] /fika/client/check/mods
+[2024-07-23T14:32:37.702Z] debug: 	Saved 1 profiles, took: 3.89ms
+[2024-07-23T14:32:46.316Z] info: 	[客户端请求] /singleplayer/settings/version
+[2024-07-23T14:32:47.099Z] info: 	[客户端请求] /client/menu/locale/ch
+[2024-07-23T14:32:47.129Z] info: 	[客户端请求] /client/game/mode
+[2024-07-23T14:32:47.148Z] info: 	[客户端请求] /client/game/start
+[2024-07-23T14:32:47.150Z] debug: 	Added custom boss wave to factory4_day of type pmcBEAR, time: -1, chance: 25, zone: BotZone
+[2024-07-23T14:32:47.150Z] debug: 	Added custom boss wave to factory4_day of type pmcUSEC, time: -1, chance: 25, zone: BotZone
+[2024-07-23T14:32:47.150Z] debug: 	Added custom boss wave to bigmap of type pmcBEAR, time: -1, chance: 25, zone: ZoneScavBase
+[2024-07-23T14:32:47.150Z] debug: 	Added custom boss wave to bigmap of type pmcUSEC, time: -1, chance: 25, zone: ZoneScavBase
+[2024-07-23T14:32:47.150Z] debug: 	Added custom boss wave to woods of type pmcBEAR, time: -1, chance: 25, zone: ZoneScavBase2
+[2024-07-23T14:32:47.150Z] debug: 	Added custom boss wave to woods of type pmcUSEC, time: -1, chance: 25, zone: ZoneScavBase2
+[2024-07-23T14:32:47.150Z] debug: 	Added custom boss wave to woods of type pmcBEAR, time: -1, chance: 25, zone: ZoneRoad
+[2024-07-23T14:32:47.150Z] debug: 	Added custom boss wave to woods of type pmcUSEC, time: -1, chance: 25, zone: ZoneRoad
+[2024-07-23T14:32:47.150Z] debug: 	Added custom boss wave to woods of type pmcBEAR, time: -1, chance: 25, zone: ZoneClearVill
+[2024-07-23T14:32:47.150Z] debug: 	Added custom boss wave to woods of type pmcUSEC, time: -1, chance: 25, zone: ZoneClearVill
+[2024-07-23T14:32:47.150Z] debug: 	Added custom boss wave to shoreline of type pmcBEAR, time: -1, chance: 20, zone: ZonePort
+[2024-07-23T14:32:47.150Z] debug: 	Added custom boss wave to shoreline of type pmcUSEC, time: -1, chance: 20, zone: ZonePort
+[2024-07-23T14:32:47.151Z] debug: 	Added custom boss wave to shoreline of type pmcUSEC, time: -1, chance: 10, zone: ZoneSanatorium1
+[2024-07-23T14:32:47.151Z] debug: 	Added custom boss wave to shoreline of type pmcBEAR, time: -1, chance: 10, zone: ZoneSanatorium1
+[2024-07-23T14:32:47.151Z] debug: 	Added custom boss wave to shoreline of type pmcUSEC, time: -1, chance: 10, zone: ZoneSanatorium2
+[2024-07-23T14:32:47.151Z] debug: 	Added custom boss wave to shoreline of type pmcBEAR, time: -1, chance: 10, zone: ZoneSanatorium2
+[2024-07-23T14:32:47.151Z] debug: 	Added custom boss wave to laboratory of type pmcBEAR, time: -1, chance: 30, zone: BotZoneFloor1
+[2024-07-23T14:32:47.151Z] debug: 	Added custom boss wave to laboratory of type pmcBEAR, time: -1, chance: 30, zone: BotZoneFloor2
+[2024-07-23T14:32:47.151Z] debug: 	Added custom boss wave to laboratory of type pmcBEAR, time: -1, chance: 30, zone: BotZoneBasement
+[2024-07-23T14:32:47.151Z] debug: 	Added custom boss wave to laboratory of type pmcUSEC, time: -1, chance: 30, zone: BotZoneFloor1
+[2024-07-23T14:32:47.151Z] debug: 	Added custom boss wave to laboratory of type pmcUSEC, time: -1, chance: 30, zone: BotZoneFloor2
+[2024-07-23T14:32:47.151Z] debug: 	Added custom boss wave to laboratory of type pmcUSEC, time: -1, chance: 30, zone: BotZoneBasement
+[2024-07-23T14:32:47.151Z] debug: 	Added custom boss wave to interchange of type pmcBEAR, time: -1, chance: 15, zone: ZoneCenter,ZoneCenterBot,ZoneOLI,ZoneIDEA,ZoneGoshan,ZonePowerStation
+[2024-07-23T14:32:47.151Z] debug: 	Added custom boss wave to interchange of type pmcUSEC, time: -1, chance: 15, zone: ZoneCenter,ZoneCenterBot,ZoneOLI,ZoneIDEA,ZoneGoshan,ZonePowerStation
+[2024-07-23T14:32:47.151Z] debug: 	Added custom boss wave to lighthouse of type pmcBEAR, time: -1, chance: 15, zone: Zone_Village,Zone_Chalet,Zone_DestroyedHouse,Zone_Rocks,Zone_OldHouse
+[2024-07-23T14:32:47.151Z] debug: 	Added custom boss wave to lighthouse of type pmcUSEC, time: -1, chance: 15, zone: Zone_Village,Zone_Chalet,Zone_DestroyedHouse,Zone_Rocks,Zone_OldHouse
+[2024-07-23T14:32:47.152Z] debug: 	Added custom boss wave to rezervbase of type pmcBEAR, time: -1, chance: 15, zone: ZoneBarrack,ZonePTOR1,ZonePTOR2,ZoneSubCommand,ZoneSubStorage,ZoneRailStrorage
+[2024-07-23T14:32:47.152Z] debug: 	Added custom boss wave to rezervbase of type pmcBEAR, time: -1, chance: 15, zone: ZoneBarrack,ZonePTOR1,ZonePTOR2,ZoneSubCommand,ZoneSubStorage,ZoneRailStrorage
+[2024-07-23T14:32:47.152Z] debug: 	Added custom boss wave to rezervbase of type pmcUSEC, time: -1, chance: 15, zone: ZoneBarrack,ZonePTOR1,ZonePTOR2,ZoneSubCommand,ZoneSubStorage,ZoneRailStrorage
+[2024-07-23T14:32:47.152Z] debug: 	Added custom boss wave to rezervbase of type pmcUSEC, time: -1, chance: 15, zone: ZoneBarrack,ZonePTOR1,ZonePTOR2,ZoneSubCommand,ZoneSubStorage,ZoneRailStrorage
+[2024-07-23T14:32:47.152Z] debug: 	Added custom boss wave to sandbox of type pmcBEAR, time: -1, chance: 30, zone: ZoneSandbox
+[2024-07-23T14:32:47.152Z] debug: 	Added custom boss wave to sandbox of type pmcUSEC, time: -1, chance: 30, zone: ZoneSandbox
+[2024-07-23T14:32:47.152Z] debug: 	Added custom boss wave to sandbox_high of type pmcBEAR, time: -1, chance: 30, zone: ZoneSandbox
+[2024-07-23T14:32:47.152Z] debug: 	Added custom boss wave to sandbox_high of type pmcUSEC, time: -1, chance: 30, zone: ZoneSandbox
+[2024-07-23T14:32:47.153Z] debug: 	Started game with sessionId: 669f7cda00049c120e69bce8 SPTarkov
+[2024-07-23T14:32:47.153Z] debug: 	Fixed assault Spawn: bigmap wave: 0 of type: assault in zone: ZoneBrige with Max Slots of 0
+[2024-07-23T14:32:47.153Z] debug: 	Fixed assault Spawn: bigmap wave: 1 of type: assault in zone: ZoneCrossRoad with Max Slots of 0
+[2024-07-23T14:32:47.154Z] debug: 	Fixed assault Spawn: bigmap wave: 15 of type: assault in zone: ZoneBlockPost with Max Slots of 0
+[2024-07-23T14:32:47.154Z] debug: 	Fixed assault Spawn: bigmap wave: 0 of type: assault in zone:  with Max Slots of 0
+[2024-07-23T14:32:47.154Z] debug: 	Fixed marksman Spawn: lighthouse wave: 2 of type: marksman in zone: Zone_SniperPeak with Max Slots of 1
+[2024-07-23T14:32:47.154Z] debug: 	Fixed assault Spawn: rezervbase wave: 2 of type: assault in zone:  with Max Slots of 2
+[2024-07-23T14:32:47.154Z] debug: 	Fixed assault Spawn: rezervbase wave: 7 of type: assault in zone:  with Max Slots of 2
+[2024-07-23T14:32:47.154Z] debug: 	Fixed marksman Spawn: sandbox wave: 4 of type: marksman in zone: ZoneSandSnipeCenter with Max Slots of 1
+[2024-07-23T14:32:47.154Z] debug: 	Fixed marksman Spawn: sandbox wave: 6 of type: marksman in zone: ZoneSandSnipeCenter with Max Slots of 1
+[2024-07-23T14:32:47.154Z] debug: 	Fixed marksman Spawn: sandbox wave: 8 of type: marksman in zone: ZoneSandSnipeCenter with Max Slots of 1
+[2024-07-23T14:32:47.154Z] debug: 	Fixed marksman Spawn: sandbox wave: 9 of type: marksman in zone: ZoneSandSnipeCenter with Max Slots of 1
+[2024-07-23T14:32:47.154Z] debug: 	Fixed marksman Spawn: sandbox_high wave: 3 of type: marksman in zone: ZoneSnipeStilo with Max Slots of 1
+[2024-07-23T14:32:47.154Z] debug: 	Fixed marksman Spawn: sandbox_high wave: 5 of type: marksman in zone: ZoneSnipeCard with Max Slots of 1
+[2024-07-23T14:32:47.154Z] debug: 	Fixed marksman Spawn: sandbox_high wave: 7 of type: marksman in zone: ZoneSnipeBuilding with Max Slots of 1
+[2024-07-23T14:32:47.156Z] debug: 	Fixed marksman Spawn: sandbox_high wave: 8 of type: marksman in zone: ZoneSnipeSW01 with Max Slots of 1
+[2024-07-23T14:32:47.156Z] debug: 	Fixed marksman Spawn: shoreline wave: 9 of type: marksman in zone: ZonePowerStationSniper with Max Slots of 0
+[2024-07-23T14:32:47.156Z] debug: 	Fixed assault Spawn: woods wave: 6 of type: assault in zone: ZoneWoodCutter with Max Slots of 0
+[2024-07-23T14:32:47.156Z] debug: 	Fixed assault Spawn: woods wave: 7 of type: assault in zone: ZoneBigRocks with Max Slots of 0
+[2024-07-23T14:32:47.156Z] debug: 	Fixed assault Spawn: woods wave: 8 of type: assault in zone: ZoneRoad with Max Slots of 0
+[2024-07-23T14:32:47.156Z] debug: 	Fixed marksman Spawn: woods wave: 9 of type: marksman in zone: ZoneHighRocks with Max Slots of 1
+[2024-07-23T14:32:47.156Z] debug: 	Splitting map: bigmap wave: 19 with 4 bots
+[2024-07-23T14:32:47.157Z] debug: 	Splitting map: bigmap wave: 24 with 4 bots
+[2024-07-23T14:32:47.157Z] debug: 	Splitting map: Lighthouse wave: 3 with 4 bots
+[2024-07-23T14:32:47.157Z] debug: 	Splitting map: Shoreline wave: 16 with 4 bots
+[2024-07-23T14:32:47.157Z] debug: 	Splitting map: Shoreline wave: 27 with 5 bots
+[2024-07-23T14:32:47.157Z] debug: 	Splitting map: Shoreline wave: 32 with 5 bots
+[2024-07-23T14:32:47.157Z] debug: 	Splitting map: Shoreline wave: 37 with 6 bots
+[2024-07-23T14:32:47.157Z] debug: 	Splitting map: Shoreline wave: 43 with 6 bots
+[2024-07-23T14:32:47.157Z] debug: 	Splitting map: Woods wave: 15 with 4 bots
+[2024-07-23T14:32:47.157Z] debug: 	Splitting map: Woods wave: 19 with 4 bots
+[2024-07-23T14:32:47.157Z] debug: 	Splitting map: Woods wave: 23 with 4 bots
+[2024-07-23T14:32:47.157Z] debug: 	Splitting map: Woods wave: 27 with 5 bots
+[2024-07-23T14:32:47.158Z] debug: 	Splitting map: Woods wave: 32 with 4 bots
+[2024-07-23T14:32:47.161Z] debug: 	Profile made with: 3.9.2 (30626)
+[2024-07-23T14:32:47.161Z] debug: 	Server version: 3.9.2 63420f7a7b59981efe64371857a86109c0e4c1c3
+[2024-07-23T14:32:47.161Z] debug: 	Debug enabled: false
+[2024-07-23T14:32:47.161Z] debug: 	Mods enabled: true
+[2024-07-23T14:32:47.162Z] warn: 	你的人物激活了“BotReload”技能，这会导致你的武器换弹快得不自然，如果你是故意的请忽视这条消息
+[2024-07-23T14:32:47.188Z] info: 	[客户端请求] /client/game/version/validate
+[2024-07-23T14:32:47.212Z] info: 	[客户端请求] /client/languages
+[2024-07-23T14:32:47.242Z] info: 	[客户端请求] /client/game/config
+[2024-07-23T14:32:54.004Z] info: 	[客户端请求] /client/items
+[2024-07-23T14:32:57.723Z] debug: 	Saved 1 profiles, took: 8.07ms
+[2024-07-23T14:33:02.850Z] info: 	[客户端请求] /client/customization
+[2024-07-23T14:33:03.111Z] info: 	[客户端请求] /client/globals
+[2024-07-23T14:33:03.992Z] info: 	[客户端请求] /client/trading/api/traderSettings
+[2024-07-23T14:33:04.041Z] info: 	[客户端请求] /client/settings
+[2024-07-23T14:33:04.065Z] info: 	[客户端请求] /client/game/profile/list
+[2024-07-23T14:33:04.463Z] info: 	[客户端请求] /client/game/profile/select
+[2024-07-23T14:33:04.489Z] info: 	[客户端请求] /client/profile/status
+[2024-07-23T14:33:04.532Z] info: 	[客户端请求] /client/weather
+[2024-07-23T14:33:04.553Z] info: 	[客户端请求] /client/locale/ch
+[2024-07-23T14:33:04.581Z] info: 	[客户端请求] /client/locations
+[2024-07-23T14:33:04.581Z] debug: 	Map: base has no base json file, skipping generation
+[2024-07-23T14:33:06.075Z] info: 	[客户端请求] /client/handbook/templates
+[2024-07-23T14:33:12.708Z] info: 	[客户端请求] /client/hideout/areas
+[2024-07-23T14:33:12.878Z] info: 	[客户端请求] /client/hideout/qte/list
+[2024-07-23T14:33:12.920Z] info: 	[客户端请求] /client/hideout/settings
+[2024-07-23T14:33:12.941Z] info: 	[客户端请求] /client/hideout/production/recipes
+[2024-07-23T14:33:13.130Z] info: 	[客户端请求] /client/hideout/production/scavcase/recipes
+[2024-07-23T14:33:13.156Z] info: 	[客户端请求] /client/builds/list
+[2024-07-23T14:33:15.936Z] info: 	[客户端请求] /singleplayer/log
+[2024-07-23T14:33:15.938Z] debug: 	[SPT.Core] 1
+[2024-07-23T14:33:15.946Z] info: 	[客户端请求] /singleplayer/log
+[2024-07-23T14:33:15.947Z] debug: 	[SPT.Core] 1
+[2024-07-23T14:33:15.955Z] info: 	[客户端请求] /singleplayer/log
+[2024-07-23T14:33:15.955Z] debug: 	[SPT.Core] 0
+[2024-07-23T14:33:15.961Z] info: 	[客户端请求] /singleplayer/log
+[2024-07-23T14:33:15.961Z] debug: 	[SPT.Core] 1
+[2024-07-23T14:33:15.965Z] info: 	[客户端请求] /singleplayer/log
+[2024-07-23T14:33:15.966Z] debug: 	[SPT.Core] 1
+[2024-07-23T14:33:15.969Z] info: 	[客户端请求] /singleplayer/log
+[2024-07-23T14:33:15.970Z] debug: 	[SPT.Core] 0
+[2024-07-23T14:33:15.973Z] info: 	[客户端请求] /singleplayer/log
+[2024-07-23T14:33:15.974Z] warn: 	[Warning: SPT.Core] Validation failed
+[2024-07-23T14:33:16.962Z] info: 	[客户端请求] /client/notifier/channel/create
+[2024-07-23T14:33:16.965Z] info: 	[客户端请求] /client/profile/status
+[2024-07-23T14:33:16.966Z] info: 	[客户端请求] /client/trading/customization/storage
+[2024-07-23T14:33:17.360Z] info: 	[WS] 玩家：lemon (669f7cda00049c120e69bce8)已连接
+[2024-07-23T14:33:17.360Z] info: 	WebSocketHandler "SPT WebSocket Handler" connected
+[2024-07-23T14:33:17.378Z] info: 	[客户端请求] /client/server/list
+[2024-07-23T14:33:17.382Z] info: 	[客户端请求] /client/match/group/current
+[2024-07-23T14:33:17.383Z] info: 	[客户端请求] /client/friend/list
+[2024-07-23T14:33:17.387Z] info: 	[客户端请求] /client/friend/request/list/inbox
+[2024-07-23T14:33:17.389Z] info: 	[客户端请求] /client/mail/dialog/list
+[2024-07-23T14:33:17.390Z] info: 	[客户端请求] /client/friend/request/list/outbox
+[2024-07-23T14:33:17.391Z] info: 	[客户端请求] /client/quest/list
+[2024-07-23T14:33:17.651Z] info: 	[客户端请求] /client/repeatalbeQuests/activityPeriods
+[2024-07-23T14:33:17.652Z] debug: 	Daily scav quests still locked, Intel center not built
+[2024-07-23T14:33:17.680Z] info: 	[客户端请求] /client/achievement/statistic
+[2024-07-23T14:33:17.707Z] info: 	[客户端请求] /client/achievement/list
+[2024-07-23T14:33:17.747Z] debug: 	Saved 1 profiles, took: 8.29ms
+[2024-07-23T14:33:37.781Z] debug: 	Saved 1 profiles, took: 7.87ms
+[2024-07-23T14:33:57.838Z] debug: 	Saved 1 profiles, took: 13.44ms
+[2024-07-23T14:34:17.879Z] debug: 	Saved 1 profiles, took: 9.94ms
+[2024-07-23T14:34:37.882Z] debug: 	Saved 1 profiles, took: 5.74ms
+[2024-07-23T14:34:47.366Z] debug: 	[WS] 正在Ping的玩家：669f7cda00049c120e69bce8
+[2024-07-23T14:34:53.667Z] info: 	[客户端请求] /client/checkVersion
+[2024-07-23T14:34:55.232Z] info: 	[客户端请求] /client/match/group/invite/cancel-all
+[2024-07-23T14:34:55.251Z] info: 	[客户端请求] /client/game/logout
+[2024-07-23T14:34:55.257Z] debug: 	Saved 1 profiles, took: 5.51ms
+[2024-07-23T14:34:57.942Z] debug: 	Saved 1 profiles, took: 2.67ms
+[2024-07-23T14:35:17.959Z] debug: 	Saved 1 profiles, took: 9.34ms
+[2024-07-23T14:35:37.994Z] debug: 	Saved 1 profiles, took: 7.71ms
+[2024-07-23T14:35:58.030Z] debug: 	Saved 1 profiles, took: 7.21ms
+[2024-07-23T14:36:17.368Z] debug: 	[WS] 正在Ping的玩家：669f7cda00049c120e69bce8
+[2024-07-23T14:36:17.369Z] debug: 	[WS] Socket丢失，正在删除句柄
+[2024-07-23T14:36:18.068Z] debug: 	Saved 1 profiles, took: 8.00ms
+[2024-07-23T14:36:38.064Z] debug: 	Saved 1 profiles, took: 7.11ms
+[2024-07-23T14:36:58.076Z] debug: 	Saved 1 profiles, took: 6.98ms
+[2024-07-23T14:37:18.129Z] debug: 	Saved 1 profiles, took: 8.37ms
+[2024-07-23T14:37:38.153Z] debug: 	Saved 1 profiles, took: 7.36ms
+[2024-07-23T14:37:58.169Z] debug: 	Saved 1 profiles, took: 7.50ms
+[2024-07-23T14:38:18.218Z] debug: 	Saved 1 profiles, took: 5.82ms
+[2024-07-23T14:38:38.271Z] debug: 	Saved 1 profiles, took: 21.18ms
+[2024-07-23T14:38:58.279Z] debug: 	Saved 1 profiles, took: 17.46ms
+[2024-07-23T14:39:18.480Z] debug: 	Saved 1 profiles, took: 6.40ms
+[2024-07-23T14:39:38.330Z] debug: 	Saved 1 profiles, took: 8.40ms
+[2024-07-23T14:39:58.356Z] debug: 	Saved 1 profiles, took: 5.98ms
+[2024-07-23T14:40:18.392Z] debug: 	Saved 1 profiles, took: 8.86ms
+[2024-07-23T14:40:38.416Z] debug: 	Saved 1 profiles, took: 8.10ms
+[2024-07-23T14:40:58.477Z] debug: 	Saved 1 profiles, took: 8.91ms
+[2024-07-23T14:41:18.515Z] debug: 	Saved 1 profiles, took: 9.62ms
+[2024-07-23T14:41:38.519Z] debug: 	Saved 1 profiles, took: 7.39ms
+[2024-07-23T14:41:58.563Z] debug: 	Saved 1 profiles, took: 8.60ms
+[2024-07-23T14:42:18.692Z] debug: 	Saved 1 profiles, took: 6.92ms
+[2024-07-23T14:42:38.616Z] debug: 	Saved 1 profiles, took: 8.67ms
+[2024-07-23T14:42:58.676Z] debug: 	Saved 1 profiles, took: 10.23ms
+[2024-07-23T14:43:18.694Z] debug: 	Saved 1 profiles, took: 9.30ms
+[2024-07-23T14:43:38.711Z] debug: 	Saved 1 profiles, took: 6.93ms
+[2024-07-23T14:43:58.772Z] debug: 	Saved 1 profiles, took: 10.09ms
+[2024-07-23T14:44:18.816Z] debug: 	Saved 1 profiles, took: 10.46ms
+[2024-07-23T14:44:38.825Z] debug: 	Saved 1 profiles, took: 5.29ms
