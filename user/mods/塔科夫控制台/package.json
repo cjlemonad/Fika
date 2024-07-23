@@ -1,0 +1,8 @@
+{
+    "name": "塔科夫控制台",
+    "version": "2.1.0",
+    "main": "src/mod.js",
+    "license": "CC-BY-SA",
+    "author": "千叶玲花",
+    "sptVersion": "~3.9"
+}

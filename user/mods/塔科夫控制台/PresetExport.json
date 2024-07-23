@@ -1,0 +1,346 @@
+{
+    "<color=#AA00AA>[史诗]PKP 7.62x54R步兵机枪</color>": {
+        "ItemID": "64ca3d3954fc657e230529cc",
+        "ItemName": "<color=#AA00AA>[史诗]PKP 7.62x54R步兵机枪</color>",
+        "BasePreset": {
+            "ID": "669d351001000ff0d8d59598",
+            "Name": "BasePreset",
+            "ModPreset": {
+                "64ca3d3954fc657e230529cc": {
+                    "mod_pistolgrip": [
+                        "64cbad529f7cf7f75c077fd5"
+                    ],
+                    "mod_magazine": [
+                        "646372518610c40fc20204e8"
+                    ],
+                    "mod_stock": [
+                        "6492e3a97df7d749100e29ee"
+                    ],
+                    "mod_barrel": [
+                        "64639a9aab86f8fd4300146c"
+                    ],
+                    "mod_bipod": [
+                        "6464d870bb2c580352070cc4"
+                    ],
+                    "mod_sight_rear": [
+                        "6492fb8253acae0af00a29b6"
+                    ]
+                }
+            },
+            "AssortPreset": [
+                {
+                    "_id": "e83c9c833a592e25b528c9ba",
+                    "_tpl": "64ca3d3954fc657e230529cc",
+                    "parentId": "hideout",
+                    "slotId": "hideout",
+                    "upd": {
+                        "StackObjectsCount": 100,
+                        "BuyRestrictionMax": 1,
+                        "BuyRestrictionCurrent": 0,
+                        "Repairable": {
+                            "Durability": 100,
+                            "MaxDurability": 100
+                        }
+                    }
+                },
+                {
+                    "_id": "817b78a9b95b67b19b5b661f",
+                    "_tpl": "64cbad529f7cf7f75c077fd5",
+                    "parentId": "e83c9c833a592e25b528c9ba",
+                    "slotId": "mod_pistolgrip"
+                },
+                {
+                    "_id": "1e5ef73443fbabb2b674d738",
+                    "_tpl": "646372518610c40fc20204e8",
+                    "parentId": "e83c9c833a592e25b528c9ba",
+                    "slotId": "mod_magazine"
+                },
+                {
+                    "_id": "9e63f75c3b990bffb2d03aba",
+                    "_tpl": "6492e3a97df7d749100e29ee",
+                    "parentId": "e83c9c833a592e25b528c9ba",
+                    "slotId": "mod_stock"
+                },
+                {
+                    "_id": "d713bcae705061fe8b8389ea",
+                    "_tpl": "64639a9aab86f8fd4300146c",
+                    "parentId": "e83c9c833a592e25b528c9ba",
+                    "slotId": "mod_barrel"
+                },
+                {
+                    "_id": "d200236b4b67e011b1cbd997",
+                    "_tpl": "6464d870bb2c580352070cc4",
+                    "parentId": "e83c9c833a592e25b528c9ba",
+                    "slotId": "mod_bipod"
+                },
+                {
+                    "_id": "11737f8a9f598e35cb5766cb",
+                    "_tpl": "6492fb8253acae0af00a29b6",
+                    "parentId": "e83c9c833a592e25b528c9ba",
+                    "slotId": "mod_sight_rear"
+                }
+            ],
+            "VanillaPreset": [
+                {
+                    "_id": "b00d98eb7d3dd00352a65cde",
+                    "_tpl": "64ca3d3954fc657e230529cc",
+                    "upd": {
+                        "SpawnedInSession": true,
+                        "Repairable": {
+                            "MaxDurability": 100,
+                            "Durability": 100
+                        },
+                        "FireMode": {
+                            "FireMode": "fullauto"
+                        }
+                    }
+                },
+                {
+                    "_id": "4aaea3bdb4dc71fe5d2224d7",
+                    "_tpl": "64cbad529f7cf7f75c077fd5",
+                    "parentId": "b00d98eb7d3dd00352a65cde",
+                    "slotId": "mod_pistolgrip",
+                    "upd": {
+                        "SpawnedInSession": true
+                    }
+                },
+                {
+                    "_id": "0ffd0407e30d3b679667be78",
+                    "_tpl": "646372518610c40fc20204e8",
+                    "parentId": "b00d98eb7d3dd00352a65cde",
+                    "slotId": "mod_magazine",
+                    "upd": {
+                        "SpawnedInSession": true
+                    }
+                },
+                {
+                    "_id": "62e23006b25320082e5b78c8",
+                    "_tpl": "6492e3a97df7d749100e29ee",
+                    "parentId": "b00d98eb7d3dd00352a65cde",
+                    "slotId": "mod_stock",
+                    "upd": {
+                        "SpawnedInSession": true
+                    }
+                },
+                {
+                    "_id": "97bb86f5131d191ffe193d3d",
+                    "_tpl": "64639a9aab86f8fd4300146c",
+                    "parentId": "b00d98eb7d3dd00352a65cde",
+                    "slotId": "mod_barrel",
+                    "upd": {
+                        "SpawnedInSession": true
+                    }
+                },
+                {
+                    "_id": "a34cdfd40d928da4a649b16f",
+                    "_tpl": "6464d870bb2c580352070cc4",
+                    "parentId": "b00d98eb7d3dd00352a65cde",
+                    "slotId": "mod_bipod",
+                    "upd": {
+                        "SpawnedInSession": true
+                    }
+                },
+                {
+                    "_id": "1f1d4728dd63a00b8389c20e",
+                    "_tpl": "6492fb8253acae0af00a29b6",
+                    "parentId": "b00d98eb7d3dd00352a65cde",
+                    "slotId": "mod_sight_rear",
+                    "upd": {
+                        "SpawnedInSession": true,
+                        "Sight": {
+                            "ScopesCurrentCalibPointIndexes": [
+                                0
+                            ],
+                            "ScopesSelectedModes": [
+                                0
+                            ],
+                            "SelectedScope": 0
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "<color=#AA00AA>[史诗]PKM 7.62x54R机枪</color>": {
+        "ItemID": "64637076203536ad5600c990",
+        "ItemName": "<color=#AA00AA>[史诗]PKM 7.62x54R机枪</color>",
+        "BasePreset2": {
+            "ID": "669d352b01000ff0d875732f",
+            "Name": "BasePreset2",
+            "ModPreset": {
+                "64637076203536ad5600c990": {
+                    "mod_pistolgrip": [
+                        "646371779f5f0ea59a04c204"
+                    ],
+                    "mod_magazine": [
+                        "646372518610c40fc20204e8"
+                    ],
+                    "mod_stock": [
+                        "646371a9f2404ab67905c8e6"
+                    ],
+                    "mod_barrel": [
+                        "646371faf2404ab67905c8e9"
+                    ],
+                    "mod_bipod": [
+                        "6464d870bb2c580352070cc4"
+                    ],
+                    "mod_sight_rear": [
+                        "6492fb8253acae0af00a29b6"
+                    ]
+                },
+                "646371faf2404ab67905c8e9": {
+                    "mod_muzzle": [
+                        "6492efb8cfcf7c89e701abf3"
+                    ]
+                }
+            },
+            "AssortPreset": [
+                {
+                    "_id": "1de21dc7db33675ff5c4d250",
+                    "_tpl": "64637076203536ad5600c990",
+                    "parentId": "hideout",
+                    "slotId": "hideout",
+                    "upd": {
+                        "StackObjectsCount": 100,
+                        "BuyRestrictionMax": 1,
+                        "BuyRestrictionCurrent": 0,
+                        "Repairable": {
+                            "Durability": 100,
+                            "MaxDurability": 100
+                        }
+                    }
+                },
+                {
+                    "_id": "256833c13011da40c0bbbbe8",
+                    "_tpl": "646371779f5f0ea59a04c204",
+                    "parentId": "1de21dc7db33675ff5c4d250",
+                    "slotId": "mod_pistolgrip"
+                },
+                {
+                    "_id": "2ba02933f89f92c84746bfdc",
+                    "_tpl": "646372518610c40fc20204e8",
+                    "parentId": "1de21dc7db33675ff5c4d250",
+                    "slotId": "mod_magazine"
+                },
+                {
+                    "_id": "7aa8e419df8495a7dd7cb737",
+                    "_tpl": "646371a9f2404ab67905c8e6",
+                    "parentId": "1de21dc7db33675ff5c4d250",
+                    "slotId": "mod_stock"
+                },
+                {
+                    "_id": "a46486e4cb5fda143048a103",
+                    "_tpl": "646371faf2404ab67905c8e9",
+                    "parentId": "1de21dc7db33675ff5c4d250",
+                    "slotId": "mod_barrel"
+                },
+                {
+                    "_id": "8ad319ce62366eeb803a0b78",
+                    "_tpl": "6464d870bb2c580352070cc4",
+                    "parentId": "1de21dc7db33675ff5c4d250",
+                    "slotId": "mod_bipod"
+                },
+                {
+                    "_id": "58a4f0ad15cf47c363a575b9",
+                    "_tpl": "6492fb8253acae0af00a29b6",
+                    "parentId": "1de21dc7db33675ff5c4d250",
+                    "slotId": "mod_sight_rear"
+                },
+                {
+                    "_id": "7922ac494bdc9c0e418ee399",
+                    "_tpl": "6492efb8cfcf7c89e701abf3",
+                    "parentId": "a46486e4cb5fda143048a103",
+                    "slotId": "mod_muzzle"
+                }
+            ],
+            "VanillaPreset": [
+                {
+                    "_id": "8e357d9c578bdad1fccf71eb",
+                    "_tpl": "64637076203536ad5600c990",
+                    "upd": {
+                        "SpawnedInSession": true,
+                        "Repairable": {
+                            "MaxDurability": 100,
+                            "Durability": 100
+                        },
+                        "FireMode": {
+                            "FireMode": "fullauto"
+                        }
+                    }
+                },
+                {
+                    "_id": "1e39fbec05711d72f995d7a5",
+                    "_tpl": "646371779f5f0ea59a04c204",
+                    "parentId": "8e357d9c578bdad1fccf71eb",
+                    "slotId": "mod_pistolgrip",
+                    "upd": {
+                        "SpawnedInSession": true
+                    }
+                },
+                {
+                    "_id": "96056c47b6ddf1a36433324a",
+                    "_tpl": "646372518610c40fc20204e8",
+                    "parentId": "8e357d9c578bdad1fccf71eb",
+                    "slotId": "mod_magazine",
+                    "upd": {
+                        "SpawnedInSession": true
+                    }
+                },
+                {
+                    "_id": "2e58646fadae847eff53d1d9",
+                    "_tpl": "646371a9f2404ab67905c8e6",
+                    "parentId": "8e357d9c578bdad1fccf71eb",
+                    "slotId": "mod_stock",
+                    "upd": {
+                        "SpawnedInSession": true
+                    }
+                },
+                {
+                    "_id": "84ada4e3fe0ddb914c1d15d6",
+                    "_tpl": "646371faf2404ab67905c8e9",
+                    "parentId": "8e357d9c578bdad1fccf71eb",
+                    "slotId": "mod_barrel",
+                    "upd": {
+                        "SpawnedInSession": true
+                    }
+                },
+                {
+                    "_id": "9a9c92e9f6c44b9ef077c3e2",
+                    "_tpl": "6464d870bb2c580352070cc4",
+                    "parentId": "8e357d9c578bdad1fccf71eb",
+                    "slotId": "mod_bipod",
+                    "upd": {
+                        "SpawnedInSession": true
+                    }
+                },
+                {
+                    "_id": "e87ae0c07581f501bb35e8b2",
+                    "_tpl": "6492fb8253acae0af00a29b6",
+                    "parentId": "8e357d9c578bdad1fccf71eb",
+                    "slotId": "mod_sight_rear",
+                    "upd": {
+                        "SpawnedInSession": true,
+                        "Sight": {
+                            "ScopesCurrentCalibPointIndexes": [
+                                0
+                            ],
+                            "ScopesSelectedModes": [
+                                0
+                            ],
+                            "SelectedScope": 0
+                        }
+                    }
+                },
+                {
+                    "_id": "0a4a9610da79509d34ef8c98",
+                    "_tpl": "6492efb8cfcf7c89e701abf3",
+                    "parentId": "84ada4e3fe0ddb914c1d15d6",
+                    "slotId": "mod_muzzle",
+                    "upd": {
+                        "SpawnedInSession": true
+                    }
+                }
+            ]
+        }
+    }
+}

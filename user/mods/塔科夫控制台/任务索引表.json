@@ -1,0 +1,3386 @@
+[
+    {
+        "数字ID": 0,
+        "任务ID": "5936d90786f7742b1420ba5b",
+        "中文名": "首秀",
+        "英文名": "Debut",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 1,
+        "任务ID": "5936da9e86f7742d65037edf",
+        "中文名": "背景调查",
+        "英文名": "Background Check",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 2,
+        "任务ID": "59674cd986f7744ab26e32f2",
+        "中文名": "硝烟野餐",
+        "英文名": "Shootout Picnic",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 3,
+        "任务ID": "59674eb386f774539f14813a",
+        "中文名": "往事速递",
+        "英文名": "Delivery From the Past",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 4,
+        "任务ID": "5967530a86f77462ba22226b",
+        "中文名": "罪证",
+        "英文名": "Bad Rep Evidence",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 5,
+        "任务ID": "59675d6c86f7740a842fc482",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>蛋卷冰淇淋",
+        "英文名": "Ice Cream Cones",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 6,
+        "任务ID": "59675ea386f77414b32bded2",
+        "中文名": "邮递员派特 - 1",
+        "英文名": "Postman Pat - Part 1",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 7,
+        "任务ID": "596760e186f7741e11214d58",
+        "中文名": "邮递员派特 - 2",
+        "英文名": "Postman Pat - Part 2",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 8,
+        "任务ID": "5967725e86f774601a446662",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>探囊取物",
+        "英文名": "Shaking up the Teller",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 9,
+        "任务ID": "5967733e86f774602332fc84",
+        "中文名": "短缺",
+        "英文名": "Shortage",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 10,
+        "任务ID": "59689ee586f7740d1570bbd5",
+        "中文名": "卫生标准 - 1",
+        "英文名": "Sanitary Standards - Part 1",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 11,
+        "任务ID": "59689fbd86f7740d137ebfc4",
+        "中文名": "水瓶座行动 - 1",
+        "英文名": "Operation Aquarius - Part 1",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 12,
+        "任务ID": "5968eb3186f7741dde183a4d",
+        "中文名": "水瓶座行动 - 2",
+        "英文名": "Operation Aquarius - Part 2",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 13,
+        "任务ID": "5969f90786f77420d2328015",
+        "中文名": "止痛药",
+        "英文名": "Painkiller",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 14,
+        "任务ID": "5969f9e986f7741dde183a50",
+        "中文名": "药剂师",
+        "英文名": "Pharmacist",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 15,
+        "任务ID": "596a0e1686f7741ddf17dbee",
+        "中文名": "供给计划",
+        "英文名": "Supply Plans",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 16,
+        "任务ID": "596a101f86f7741ddb481582",
+        "中文名": "暗中破坏",
+        "英文名": "Kind of Sabotage",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 17,
+        "任务ID": "596a1e6c86f7741ddc2d3206",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>一般储备",
+        "英文名": "General Wares",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 18,
+        "任务ID": "596a204686f774576d4c95de",
+        "中文名": "卫生标准 - 2",
+        "英文名": "Sanitary Standards - Part 2",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 19,
+        "任务ID": "596a218586f77420d232807c",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>汽车修理",
+        "英文名": "Car Repair",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 20,
+        "任务ID": "596b36c586f77450d6045ad2",
+        "中文名": "供应商",
+        "英文名": "Supplier",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 21,
+        "任务ID": "596b43fb86f77457ca186186",
+        "中文名": "敲诈者",
+        "英文名": "The Extortionist",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 22,
+        "任务ID": "596b455186f77457cb50eccb",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>风波",
+        "英文名": "Stirrup",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 23,
+        "任务ID": "5979ed3886f77431307dc512",
+        "中文名": "U盘里有什么？",
+        "英文名": "What’s on the Flash Drive?",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 24,
+        "任务ID": "5979eee086f774311955e614",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>金色失物",
+        "英文名": "Golden Swag",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 25,
+        "任务ID": "5979f8bb86f7743ec214c7a6",
+        "中文名": "Polikhim流浪汉",
+        "英文名": "Polikhim Hobo",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 26,
+        "任务ID": "5979f9ba86f7740f6c3fe9f2",
+        "中文名": "化学品 - 1",
+        "英文名": "Chemical - Part 1",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 27,
+        "任务ID": "597a0b2986f77426d66c0633",
+        "中文名": "化学品 - 2",
+        "英文名": "Chemical - Part 2",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 28,
+        "任务ID": "597a0e5786f77426d66c0636",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>化学品 - 3",
+        "英文名": "Chemical - Part 3",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 29,
+        "任务ID": "597a0f5686f774273b74f676",
+        "中文名": "<color=#228B22><b>「灯塔之匙」</b></color>化学品 - 4",
+        "英文名": "Chemical - Part 4",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 30,
+        "任务ID": "597a160786f77477531d39d2",
+        "中文名": "出于好奇",
+        "英文名": "Out of Curiosity",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 31,
+        "任务ID": "597a171586f77405ba6887d3",
+        "中文名": "大客户",
+        "英文名": "Big Customer",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 32,
+        "任务ID": "59c124d686f774189b3c843f",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>石油存储",
+        "英文名": "BP Depot",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 33,
+        "任务ID": "59c50a9e86f7745fef66f4ff",
+        "中文名": "惩罚者 - 1",
+        "英文名": "The Punisher - Part 1",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 34,
+        "任务ID": "59c50c8886f7745fed3193bf",
+        "中文名": "惩罚者 - 2",
+        "英文名": "The Punisher - Part 2",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 35,
+        "任务ID": "59c512ad86f7741f0d09de9b",
+        "中文名": "惩罚者 - 3",
+        "英文名": "The Punisher - Part 3",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 36,
+        "任务ID": "59c9392986f7742f6923add2",
+        "中文名": "重获信任",
+        "英文名": "Trust Regain",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 37,
+        "任务ID": "59c93e8e86f7742a406989c4",
+        "中文名": "收买人心",
+        "英文名": "Loyalty Buyout",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 38,
+        "任务ID": "59ca1a6286f774509a270942",
+        "中文名": "无意冒犯",
+        "英文名": "No Offence",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 39,
+        "任务ID": "59ca264786f77445a80ed044",
+        "中文名": "<color=#228B22><b>「灯塔之匙」</b></color>惩罚者 - 4",
+        "英文名": "The Punisher - Part 4",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 40,
+        "任务ID": "59ca29fb86f77445ab465c87",
+        "中文名": "惩罚者 - 5",
+        "英文名": "The Punisher - Part 5",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 41,
+        "任务ID": "59ca2eb686f77445a80ed049",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>惩罚者 - 6",
+        "英文名": "The Punisher - Part 6",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 42,
+        "任务ID": "5a03153686f77442d90e2171",
+        "中文名": "疗养之旅 - 1",
+        "英文名": "Spa Tour - Part 1",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 43,
+        "任务ID": "5a03173786f77451cb427172",
+        "中文名": "疗养之旅 - 2",
+        "英文名": "Spa Tour - Part 2",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 44,
+        "任务ID": "5a0327ba86f77456b9154236",
+        "中文名": "疗养之旅 - 3",
+        "英文名": "Spa Tour - Part 3",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 45,
+        "任务ID": "5a03296886f774569778596a",
+        "中文名": "疗养之旅 - 4",
+        "英文名": "Spa Tour - Part 4",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 46,
+        "任务ID": "5a0449d586f77474e66227b7",
+        "中文名": "疗养之旅 - 5",
+        "英文名": "Spa Tour - Part 5",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 47,
+        "任务ID": "5a27b75b86f7742e97191958",
+        "中文名": "渔具",
+        "英文名": "Fishing Gear",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 48,
+        "任务ID": "5a27b7a786f774579c3eb376",
+        "中文名": "猎虎行动",
+        "英文名": "Tigr Safari",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 49,
+        "任务ID": "5a27b7d686f77460d847e6a6",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>破铜烂铁",
+        "英文名": "Scrap Metal",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 50,
+        "任务ID": "5a27b80086f774429a5d7e20",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>鹰眼",
+        "英文名": "Eagle Eye",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 51,
+        "任务ID": "5a27b87686f77460de0252a8",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>人道主义援助",
+        "英文名": "Humanitarian Supplies",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 52,
+        "任务ID": "5a27b9de86f77464e5044585",
+        "中文名": "邪教 - 1",
+        "英文名": "The Cult - Part 1",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 53,
+        "任务ID": "5a27ba1c86f77461ea5a3c56",
+        "中文名": "<color=#228B22><b>「灯塔之匙」</b></color><color=#FFA500><b>「主线任务」</b></color>邪教 - 2",
+        "英文名": "The Cult - Part 2",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 54,
+        "任务ID": "5a27ba9586f7741b543d8e85",
+        "中文名": "疗养之旅 - 6",
+        "英文名": "Spa Tour - Part 6",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 55,
+        "任务ID": "5a27bafb86f7741c73584017",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>疗养之旅 - 7",
+        "英文名": "Spa Tour - Part 7",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 56,
+        "任务ID": "5a27bb1e86f7741f27621b7e",
+        "中文名": "神秘货物 - 1",
+        "英文名": "Cargo X - Part 1",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 57,
+        "任务ID": "5a27bb3d86f77411ea361a21",
+        "中文名": "神秘货物 - 2",
+        "英文名": "Cargo X - Part 2",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 58,
+        "任务ID": "5a27bb5986f7741dfb660900",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>神秘货物 - 3",
+        "英文名": "Cargo X - Part 3",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 59,
+        "任务ID": "5a27bb8386f7741c770d2d0a",
+        "中文名": "湿活 - 1",
+        "英文名": "Wet Job - Part 1",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 60,
+        "任务ID": "5a27bbf886f774333a418eeb",
+        "中文名": "湿活 - 2",
+        "英文名": "Wet Job - Part 2",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 61,
+        "任务ID": "5a27bc1586f7741f6d40fa2f",
+        "中文名": "湿活 - 3",
+        "英文名": "Wet Job - Part 3",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 62,
+        "任务ID": "5a27bc3686f7741c73584026",
+        "中文名": "湿活 - 4",
+        "英文名": "Wet Job - Part 4",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 63,
+        "任务ID": "5a27bc6986f7741c7358402b",
+        "中文名": "湿活 - 5",
+        "英文名": "Wet Job - Part 5",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 64,
+        "任务ID": "5a27bc8586f7741b543d8ea4",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>湿活 - 6",
+        "英文名": "Wet Job - Part 6",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 65,
+        "任务ID": "5a27c99a86f7747d2c6bdd8e",
+        "中文名": "西方来客 - 1",
+        "英文名": "Friend From the West - Part 1",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 66,
+        "任务ID": "5a27d2af86f7744e1115b323",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>西方来客 - 2",
+        "英文名": "Friend From the West - Part 2",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 67,
+        "任务ID": "5a68661a86f774500f48afb0",
+        "中文名": "医疗隐私 - 1",
+        "英文名": "Health Care Privacy - Part 1",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 68,
+        "任务ID": "5a68663e86f774501078f78a",
+        "中文名": "医疗隐私 - 2",
+        "英文名": "Health Care Privacy - Part 2",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 69,
+        "任务ID": "5a68665c86f774255929b4c7",
+        "中文名": "医疗隐私 - 3",
+        "英文名": "Health Care Privacy - Part 3",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 70,
+        "任务ID": "5a68667486f7742607157d28",
+        "中文名": "医疗隐私 - 4",
+        "英文名": "Health Care Privacy - Part 4",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 71,
+        "任务ID": "5a68669a86f774255929b4d4",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>医疗隐私 - 5",
+        "英文名": "Health Care Privacy - Part 5",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 72,
+        "任务ID": "5ac23c6186f7741247042bad",
+        "中文名": "枪匠 - 1",
+        "英文名": "Gunsmith - Part 1",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 73,
+        "任务ID": "5ac2426c86f774138762edfe",
+        "中文名": "枪匠 - 2",
+        "英文名": "Gunsmith - Part 2",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 74,
+        "任务ID": "5ac2428686f77412450b42bf",
+        "中文名": "枪匠 - 3",
+        "英文名": "Gunsmith - Part 3",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 75,
+        "任务ID": "5ac242ab86f77412464f68b4",
+        "中文名": "枪匠 - 16",
+        "英文名": "Gunsmith - Part 16",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 76,
+        "任务ID": "5ac244c486f77413e12cf945",
+        "中文名": "枪匠 - 13",
+        "英文名": "Gunsmith - Part 13",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 77,
+        "任务ID": "5ac244eb86f7741356335af1",
+        "中文名": "枪匠 - 7",
+        "英文名": "Gunsmith - Part 7",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 78,
+        "任务ID": "5ac345dc86f774288030817f",
+        "中文名": "挖矿 - 1",
+        "英文名": "Farming - Part 1",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 79,
+        "任务ID": "5ac3460c86f7742880308185",
+        "中文名": "挖矿 - 2",
+        "英文名": "Farming - Part 2",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 80,
+        "任务ID": "5ac3462b86f7741d6118b983",
+        "中文名": "挖矿 - 3",
+        "英文名": "Farming - Part 3",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 81,
+        "任务ID": "5ac3464c86f7741d651d6877",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>挖矿 - 4",
+        "英文名": "Farming - Part 4",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 82,
+        "任务ID": "5ac3467986f7741d6224abc2",
+        "中文名": "信号 - 1",
+        "英文名": "Signal - Part 1",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 83,
+        "任务ID": "5ac346a886f7744e1b083d67",
+        "中文名": "信号 - 2",
+        "英文名": "Signal - Part 2",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 84,
+        "任务ID": "5ac346cf86f7741d63233a02",
+        "中文名": "信号 - 3",
+        "英文名": "Signal - Part 3",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 85,
+        "任务ID": "5ac346e886f7741d6118b99b",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>信号 - 4",
+        "英文名": "Signal - Part 4",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 86,
+        "任务ID": "5ac3475486f7741d6224abd3",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>不良嗜好",
+        "英文名": "Bad Habit",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 87,
+        "任务ID": "5ac3477486f7741d651d6885",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>侦查",
+        "英文名": "Scout",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 88,
+        "任务ID": "5ac3479086f7742880308199",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>圈内人",
+        "英文名": "Insider",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 89,
+        "任务ID": "5ae3267986f7742a413592fe",
+        "中文名": "枪匠 - 5",
+        "英文名": "Gunsmith - Part 5",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 90,
+        "任务ID": "5ae3270f86f77445ba41d4dd",
+        "中文名": "枪匠 - 6",
+        "英文名": "Gunsmith - Part 6",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 91,
+        "任务ID": "5ae3277186f7745973054106",
+        "中文名": "枪匠 - 8",
+        "英文名": "Gunsmith - Part 8",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 92,
+        "任务ID": "5ae327c886f7745c7b3f2f3f",
+        "中文名": "<color=#228B22><b>「灯塔之匙」</b></color>枪匠 - 10",
+        "英文名": "Gunsmith - Part 10",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 93,
+        "任务ID": "5ae3280386f7742a41359364",
+        "中文名": "枪匠 - 15",
+        "英文名": "Gunsmith - Part 15",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 94,
+        "任务ID": "5ae448a386f7744d3730fff0",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>生意至上",
+        "英文名": "Only Business",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 95,
+        "任务ID": "5ae448bf86f7744d733e55ee",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>Make ULTRA Great Again",
+        "英文名": "Make ULTRA Great Again",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 96,
+        "任务ID": "5ae448e586f7744dcf0c2a67",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>大甩卖",
+        "英文名": "Big Sale",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 97,
+        "任务ID": "5ae448f286f77448d73c0131",
+        "中文名": "战争之血 - 1",
+        "英文名": "The Blood of War - Part 1",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 98,
+        "任务ID": "5ae4490786f7744ca822adcc",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>盛装杀戮",
+        "英文名": "Dressed to Kill",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 99,
+        "任务ID": "5ae4493486f7744efa289417",
+        "中文名": "数据库 - 1",
+        "英文名": "Database - Part 1",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 100,
+        "任务ID": "5ae4493d86f7744b8e15aa8f",
+        "中文名": "<color=#228B22><b>「灯塔之匙」</b></color><color=#FFA500><b>「主线任务」</b></color>数据库 - 2",
+        "英文名": "Database - Part 2",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 101,
+        "任务ID": "5ae4495086f77443c122bc40",
+        "中文名": "临行密密缝 - 1",
+        "英文名": "Sew it Good - Part 1",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 102,
+        "任务ID": "5ae4495c86f7744e87761355",
+        "中文名": "临行密密缝 - 2",
+        "英文名": "Sew it Good - Part 2",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 103,
+        "任务ID": "5ae4496986f774459e77beb6",
+        "中文名": "临行密密缝 - 3",
+        "英文名": "Sew it Good - Part 3",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 104,
+        "任务ID": "5ae4497b86f7744cf402ed00",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>临行密密缝 - 4",
+        "英文名": "Sew it Good - Part 4",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 105,
+        "任务ID": "5ae4498786f7744bde357695",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>成功的关键",
+        "英文名": "The Key to Success",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 106,
+        "任务ID": "5ae4499a86f77449783815db",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>风流倜傥",
+        "英文名": "Charisma Brings Success",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 107,
+        "任务ID": "5ae449a586f7744bde357696",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>暗度陈仓",
+        "英文名": "No Fuss Needed",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 108,
+        "任务ID": "5ae449b386f77446d8741719",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>感恩的心",
+        "英文名": "Gratitude",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 109,
+        "任务ID": "5ae449c386f7744bde357697",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>大放送之夜",
+        "英文名": "Sales Night",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 110,
+        "任务ID": "5ae449d986f774453a54a7e1",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>财务总监",
+        "英文名": "Supervisor",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 111,
+        "任务ID": "5b47749f86f7746c5d6a5fd4",
+        "中文名": "枪匠 - 17",
+        "英文名": "Gunsmith - Part 17",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 112,
+        "任务ID": "5b47799d86f7746c5d6a5fd8",
+        "中文名": "枪匠 - 12",
+        "英文名": "Gunsmith - Part 12",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 113,
+        "任务ID": "5b477b6f86f7747290681823",
+        "中文名": "枪匠 - 18",
+        "英文名": "Gunsmith - Part 18",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 114,
+        "任务ID": "5b477f7686f7744d1b23c4d2",
+        "中文名": "枪匠 - 20",
+        "英文名": "Gunsmith - Part 20",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 115,
+        "任务ID": "5b47825886f77468074618d3",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>枪匠 - 22",
+        "英文名": "Gunsmith - Part 22",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 116,
+        "任务ID": "5b47876e86f7744d1c353205",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>战争之血 - 2",
+        "英文名": "The Blood of War - Part 2",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 117,
+        "任务ID": "5b47891f86f7744d1b23c571",
+        "中文名": "奢侈无罪 - 1",
+        "英文名": "Living High is Not a Crime - Part 1",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 118,
+        "任务ID": "5b478b1886f7744d1b23c57d",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>火线速递",
+        "英文名": "Hot Delivery",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 119,
+        "任务ID": "5b478d0f86f7744d190d91b5",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>微型客车",
+        "英文名": "Minibus",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 120,
+        "任务ID": "5b478eca86f7744642012254",
+        "中文名": "维他命 - 1",
+        "英文名": "Vitamins - Part 1",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 121,
+        "任务ID": "5b478ff486f7744d184ecbbf",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>维他命 - 2",
+        "英文名": "Vitamins - Part 2",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 122,
+        "任务ID": "5b47926a86f7747ccc057c15",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>情报就是力量",
+        "英文名": "Informed Means Armed",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 123,
+        "任务ID": "5b4794cb86f774598100d5d4",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>租借法案 - 1",
+        "英文名": "Lend-Lease - Part 1",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 124,
+        "任务ID": "5b4795fb86f7745876267770",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>愿者上钩",
+        "英文名": "Chumming",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 125,
+        "任务ID": "5bc4776586f774512d07cf05",
+        "中文名": "塔科夫神射手 - 1",
+        "英文名": "The Tarkov Shooter - Part 1",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 126,
+        "任务ID": "5bc479e586f7747f376c7da3",
+        "中文名": "塔科夫神射手 - 2",
+        "英文名": "The Tarkov Shooter - Part 2",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 127,
+        "任务ID": "5bc47dbf86f7741ee74e93b9",
+        "中文名": "塔科夫神射手 - 3",
+        "英文名": "The Tarkov Shooter - Part 3",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 128,
+        "任务ID": "5bc480a686f7741af0342e29",
+        "中文名": "塔科夫神射手 - 4",
+        "英文名": "The Tarkov Shooter - Part 4",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 129,
+        "任务ID": "5bc4826c86f774106d22d88b",
+        "中文名": "塔科夫神射手 - 5",
+        "英文名": "The Tarkov Shooter - Part 5",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 130,
+        "任务ID": "5bc4836986f7740c0152911c",
+        "中文名": "塔科夫神射手 - 6",
+        "英文名": "The Tarkov Shooter - Part 6",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 131,
+        "任务ID": "5bc4856986f77454c317bea7",
+        "中文名": "塔科夫神射手 - 7",
+        "英文名": "The Tarkov Shooter - Part 7",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 132,
+        "任务ID": "5bc4893c86f774626f5ebf3e",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>塔科夫神射手 - 8",
+        "英文名": "The Tarkov Shooter - Part 8",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 133,
+        "任务ID": "5c0bbaa886f7746941031d82",
+        "中文名": "一派胡言",
+        "英文名": "Bullshit",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 134,
+        "任务ID": "5c0bc91486f7746ab41857a2",
+        "中文名": "大音希声",
+        "英文名": "Silent Caliber",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 135,
+        "任务ID": "5c0bd01e86f7747cdd799e56",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>彻夜难眠",
+        "英文名": "Insomnia",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 136,
+        "任务ID": "5c0bd94186f7747a727f09b2",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>试驾 - 1",
+        "英文名": "Test Drive - Part 1",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 137,
+        "任务ID": "5c0bdb5286f774166e38eed4",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>坚如燧石",
+        "英文名": "Flint",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 138,
+        "任务ID": "5c0bde0986f77479cf22c2f8",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>天神射手",
+        "英文名": "A Shooter Born in Heaven",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 139,
+        "任务ID": "5c0be13186f7746f016734aa",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>狙击疯魔\n",
+        "英文名": "Psycho Sniper",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 140,
+        "任务ID": "5c0be5fc86f774467a116593",
+        "中文名": "私人诊所",
+        "英文名": "Private Clinic",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 141,
+        "任务ID": "5c0d0d5086f774363760aef2",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>运动员",
+        "英文名": "Athlete",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 142,
+        "任务ID": "5c0d0f1886f77457b8210226",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>租借法案 - 2",
+        "英文名": "Lend-Lease - Part 2",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 143,
+        "任务ID": "5c0d190cd09282029f5390d8",
+        "中文名": "掷弹兵",
+        "英文名": "Grenadier",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 144,
+        "任务ID": "5c0d1c4cd0928202a02a6f5c",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>灭虫服务",
+        "英文名": "Decontamination Service",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 145,
+        "任务ID": "5c0d4c12d09282029f539173",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>维和任务",
+        "英文名": "Peacekeeping Mission",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 146,
+        "任务ID": "5c0d4e61d09282029f53920e",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>向导",
+        "英文名": "The Guide",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 147,
+        "任务ID": "5c10f94386f774227172c572",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>战争之血 - 3",
+        "英文名": "The Blood of War - Part 3",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 148,
+        "任务ID": "5c1128e386f7746565181106",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>肥料",
+        "英文名": "Fertilizers",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 149,
+        "任务ID": "5c112d7e86f7740d6f647486",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>垃圾佬",
+        "英文名": "Scavenger",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 150,
+        "任务ID": "5c1141f386f77430ff393792",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>奢侈无罪 - 2",
+        "英文名": "Living High is Not a Crime - Part 2",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 151,
+        "任务ID": "5c1234c286f77406fa13baeb",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>借刀杀人",
+        "英文名": "Setup",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 152,
+        "任务ID": "5c12452c86f7744b83469073",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>左右逢源",
+        "英文名": "Perfect Mediator",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 153,
+        "任务ID": "5c139eb686f7747878361a6f",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>进口",
+        "英文名": "Import",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 154,
+        "任务ID": "5c51aac186f77432ea65c552",
+        "中文名": "收藏家",
+        "英文名": "Collector",
+        "商人ID": "579dc571d53a0658a154fbec",
+        "商人名": "Fence"
+    },
+    {
+        "数字ID": 155,
+        "任务ID": "5d2495a886f77425cd51e403",
+        "中文名": "介绍",
+        "英文名": "Introduction",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 156,
+        "任务ID": "5d24b81486f77439c92d6ba8",
+        "中文名": "熟人",
+        "英文名": "Acquaintance",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 157,
+        "任务ID": "5d25aed386f77442734d25d2",
+        "中文名": "生存者之路 - 危险零距离",
+        "英文名": "The Survivalist Path - Unprotected but Dangerous",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 158,
+        "任务ID": "5d25b6be86f77444001e1b89",
+        "中文名": "生存者之路 - 省吃俭用",
+        "英文名": "The Survivalist Path - Thrifty",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 159,
+        "任务ID": "5d25bfd086f77442734d3007",
+        "中文名": "生存者之路 - Zhivchik",
+        "英文名": "The Survivalist Path - Zhivchik",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 160,
+        "任务ID": "5d25c81b86f77443e625dd71",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>生存者之路 - 受伤的野兽",
+        "英文名": "The Survivalist Path - Wounded Beast",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 161,
+        "任务ID": "5d25cf2686f77443e75488d4",
+        "中文名": "生存者之路 - 硬汉",
+        "英文名": "The Survivalist Path - Tough Guy",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 162,
+        "任务ID": "5d25d2c186f77443e35162e5",
+        "中文名": "生存者之路 - 冷血",
+        "英文名": "The Survivalist Path - Cold Blooded",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 163,
+        "任务ID": "5d25e29d86f7740a22516326",
+        "中文名": "生存者之路 -  雕鸮",
+        "英文名": "The Survivalist Path - Eagle-Owl",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 164,
+        "任务ID": "5d25e2a986f77409dd5cdf2a",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>生存者之路 - 战地军医",
+        "英文名": "The Survivalist Path - Combat Medic",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 165,
+        "任务ID": "5d25e2b486f77409de05bba0",
+        "中文名": "猎人之路 - 周边安全",
+        "英文名": "The Huntsman Path - Secured Perimeter",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 166,
+        "任务ID": "5d25e2c386f77443e7549029",
+        "中文名": "猎人之路 - 物资",
+        "英文名": "The Huntsman Path - Trophy",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 167,
+        "任务ID": "5d25e2cc86f77443e47ae019",
+        "中文名": "<color=#228B22><b>「灯塔之匙」</b></color>猎人之路 - 杀戮森林",
+        "英文名": "The Huntsman Path - Forest Cleaning",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 168,
+        "任务ID": "5d25e2d886f77442734d335e",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>猎人之路 - 控制者",
+        "英文名": "The Huntsman Path - Controller",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 169,
+        "任务ID": "5d25e2e286f77444001e2e48",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>猎人之路 - 脱销",
+        "英文名": "The Huntsman Path - Sellout",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 170,
+        "任务ID": "5d25e2ee86f77443e35162ea",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>猎人之路 - 森林管理员",
+        "英文名": "The Huntsman Path - Woods Keeper",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 171,
+        "任务ID": "5d25e43786f7740a212217fa",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>猎人之路 - 正义",
+        "英文名": "The Huntsman Path - Justice",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 172,
+        "任务ID": "5d25e44386f77409453bce7b",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>猎人之路 - 邪恶守望者",
+        "英文名": "The Huntsman Path - Evil Watchman",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 173,
+        "任务ID": "5d25e44f86f77443e625e385",
+        "中文名": "猎人之路 - 蒸发密令",
+        "英文名": "The Huntsman Path - Eraser - Part 1",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 174,
+        "任务ID": "5d25e45e86f77408251c4bfa",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>猎人之路 - 蒸发密令 - 2",
+        "英文名": "The Huntsman Path - Eraser - Part 2",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 175,
+        "任务ID": "5d25e46e86f77409453bce7c",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>救护车",
+        "英文名": "Ambulance",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 176,
+        "任务ID": "5d25e48186f77443e625e386",
+        "中文名": "<color=#228B22><b>「灯塔之匙」</b></color><color=#FFA500><b>「主线任务」</b></color>礼节性拜访",
+        "英文名": "Courtesy Visit",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 177,
+        "任务ID": "5d25e48d86f77408251c4bfb",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>生意至上",
+        "英文名": "Shady Business",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 178,
+        "任务ID": "5d25e4ad86f77443e625e387",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>怀旧之情",
+        "英文名": "Nostalgia",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 179,
+        "任务ID": "5d25e4b786f77408251c4bfc",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>鱼塘",
+        "英文名": "Fishing Place",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 180,
+        "任务ID": "5d25e4ca86f77409dd5cdf2c",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>狩猎之旅",
+        "英文名": "Hunting Trip",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 181,
+        "任务ID": "5d25e4d586f77443e625e388",
+        "中文名": "储备",
+        "英文名": "Reserve",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 182,
+        "任务ID": "5d4bec3486f7743cac246665",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>管制材料",
+        "英文名": "Regulated Materials",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 183,
+        "任务ID": "5d6fb2c086f77449da599c24",
+        "中文名": "一天一个苹果 - 医生远离我",
+        "英文名": "An Apple a Day Keeps the Doctor Away",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 184,
+        "任务ID": "5d6fbc2886f77449d825f9d3",
+        "中文名": "导师",
+        "英文名": "Mentor",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 185,
+        "任务ID": "5dc53acb86f77469c740c893",
+        "中文名": "那个时髦的人",
+        "英文名": "The Stylish One",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 186,
+        "任务ID": "5e381b0286f77420e3417a74",
+        "中文名": "纺织业 - 1（旧版）",
+        "英文名": "Textile - Part 1",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 187,
+        "任务ID": "5e383a6386f77465910ce1f3",
+        "中文名": "纺织业 - 1",
+        "英文名": "Textile - Part 1",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 188,
+        "任务ID": "5e4d4ac186f774264f758336",
+        "中文名": "纺织业 - 2（旧版）",
+        "英文名": "Textile - Part 2",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 189,
+        "任务ID": "5e4d515e86f77438b2195244",
+        "中文名": "纺织业 - 2",
+        "英文名": "Textile - Part 2",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 190,
+        "任务ID": "5eaaaa7c93afa0558f3b5a1c",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>生存者之路 - Junkie",
+        "英文名": "The Survivalist Path - Junkie",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 191,
+        "任务ID": "5eda19f0edce541157209cee",
+        "中文名": "麻醉",
+        "英文名": "Anesthesia",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 192,
+        "任务ID": "5edab4b1218d181e29451435",
+        "中文名": "猎人之路 - 虐待狂",
+        "英文名": "The Huntsman Path - Sadist",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 193,
+        "任务ID": "5edab736cc183c769d778bc2",
+        "中文名": "同事 - 1",
+        "英文名": "Colleagues - Part 1",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 194,
+        "任务ID": "5edaba7c0c502106f869bc02",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>同事 - 2",
+        "英文名": "Colleagues - Part 2",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 195,
+        "任务ID": "5edabd13218d181e29451442",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>肮脏游戏",
+        "英文名": "Rigged Game",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 196,
+        "任务ID": "5edac020218d181e29451446",
+        "中文名": "样品",
+        "英文名": "Samples",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 197,
+        "任务ID": "5edac34d0bb72a50635c2bfa",
+        "中文名": "同事 - 3",
+        "英文名": "Colleagues - Part 3",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 198,
+        "任务ID": "5edac63b930f5454f51e128b",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>TerraGroup 雇员",
+        "英文名": "TerraGroup Employee",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 199,
+        "任务ID": "5ede55112c95834b583f052a",
+        "中文名": "地堡 - 1",
+        "英文名": "The Bunker - Part 1",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 200,
+        "任务ID": "5ede567cfa6dc072ce15d6e3",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>地堡 - 2",
+        "英文名": "The Bunker - Part 2",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 201,
+        "任务ID": "5f04886a3937dc337a6b8238",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>化学橱柜",
+        "英文名": "Chemistry Closet",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 202,
+        "任务ID": "5fd9fad9c1ce6b1a3b486d00",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>搜索任务",
+        "英文名": "Search Mission",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 203,
+        "任务ID": "600302d73b897b11364cd161",
+        "中文名": "猎人",
+        "英文名": "Hunter",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 204,
+        "任务ID": "6086c852c945025d41566124",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>无中生有 - 储备站",
+        "英文名": "Revision - Reserve",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 205,
+        "任务ID": "60896888e4a85c72ef3fa300",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>绝密技术",
+        "英文名": "Classified Technologies",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 206,
+        "任务ID": "60896b7bfa70fc097863b8f5",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>多鱼之漏",
+        "英文名": "Documents",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 207,
+        "任务ID": "60896bca6ee58f38c417d4f2",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>叛无所依",
+        "英文名": "No Place for Renegades",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 208,
+        "任务ID": "60896e28e4a85c72ef3fa301",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>病历",
+        "英文名": "Disease History",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 209,
+        "任务ID": "6089732b59b92115597ad789",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>物尽其用",
+        "英文名": "Surplus Goods",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 210,
+        "任务ID": "6089736efa70fc097863b8f6",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>后门",
+        "英文名": "Back Door",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 211,
+        "任务ID": "6089743983426423753cd58a",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>安全通道",
+        "英文名": "Safe Corridor",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 212,
+        "任务ID": "608974af4b05530f55550c21",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>清点库存",
+        "英文名": "Inventory Check",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 213,
+        "任务ID": "608974d01a66564e74191fc0",
+        "中文名": "<color=#228B22><b>「灯塔之匙」</b></color><color=#FFA500><b>「主线任务」</b></color>雪中送炭",
+        "英文名": "A Fuel Matter",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 214,
+        "任务ID": "608a768d82e40b3c727fd17d",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>害虫防治",
+        "英文名": "Pest Control",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 215,
+        "任务ID": "60c0c018f7afb4354815096a",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>猎人之路 - 工厂头目",
+        "英文名": "The Huntsman Path - Factory Chief",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 216,
+        "任务ID": "60e71b62a0beca400d69efc4",
+        "中文名": "护送",
+        "英文名": "Escort",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 217,
+        "任务ID": "60e71b9bbd90872cb85440f3",
+        "中文名": "掠地攻城",
+        "英文名": "Capturing Outposts",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 218,
+        "任务ID": "60e71bb4e456d449cd47ca75",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>恐吓者",
+        "英文名": "Intimidator",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 219,
+        "任务ID": "60e71c11d54b755a3b53eb65",
+        "中文名": "夜间扫荡",
+        "英文名": "Night Sweep",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 220,
+        "任务ID": "60e71c48c1bfa3050473b8e5",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>急单",
+        "英文名": "Crisis",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 221,
+        "任务ID": "60e71c9ad54b755a3b53eb66",
+        "中文名": "清洁工",
+        "英文名": "The Cleaner",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 222,
+        "任务ID": "60e71ccb5688f6424c7bfec4",
+        "中文名": "战利品",
+        "英文名": "Trophies",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 223,
+        "任务ID": "60e71ce009d7c801eb0c0ec6",
+        "中文名": "特殊装备",
+        "英文名": "Special Equipment",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 224,
+        "任务ID": "60e71d23c1bfa3050473b8e6",
+        "中文名": "致命校准",
+        "英文名": "Calibration",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 225,
+        "任务ID": "60e71d6d7fcf9c556f325055",
+        "中文名": "急先锋",
+        "英文名": "The Courier",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 226,
+        "任务ID": "60e71dc0a94be721b065bbfc",
+        "中文名": "长期合作",
+        "英文名": "Long Line",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 227,
+        "任务ID": "60e71dc67fcf9c556f325056",
+        "中文名": "酒瘾",
+        "英文名": "Booze",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 228,
+        "任务ID": "60e71e8ed54b755a3b53eb67",
+        "中文名": "猎人之路 - 无情杀手",
+        "英文名": "The Huntsman Path - Relentless",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 229,
+        "任务ID": "60e729cf5698ee7b05057439",
+        "中文名": "快枪手",
+        "英文名": "Swift One",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 230,
+        "任务ID": "60effd818b669d08a35bfad5",
+        "中文名": "抉择",
+        "英文名": "The Choice",
+        "商人ID": "579dc571d53a0658a154fbec",
+        "商人名": "Fence"
+    },
+    {
+        "数字ID": 231,
+        "任务ID": "6179ac7511973d018217d0b9",
+        "中文名": "小菜一碟 - 1",
+        "英文名": "Easy Job - Part 1",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 232,
+        "任务ID": "6179acbdc760af5ad2053585",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>小菜一碟 - 2",
+        "英文名": "Easy Job - Part 2",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 233,
+        "任务ID": "6179ad0a6e9dd54ac275e3f2",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>猎人之路 - 流浪汉",
+        "英文名": "The Huntsman Path - Outcasts",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 234,
+        "任务ID": "6179ad56c760af5ad2053587",
+        "中文名": "<color=#228B22><b>「灯塔之匙」</b></color><color=#FFA500><b>「主线任务」</b></color>海边假期",
+        "英文名": "Seaside Vacation",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 235,
+        "任务ID": "6179afd0bca27a099552e040",
+        "中文名": "<color=#228B22><b>「灯塔之匙」</b></color><color=#FFA500><b>「主线任务」</b></color>消失的线人",
+        "英文名": "Lost Contact",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 236,
+        "任务ID": "6179aff8f57fb279792c60a1",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>人口过剩",
+        "英文名": "Overpopulation",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 237,
+        "任务ID": "6179b3a12153c15e937d52bc",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>能源危机",
+        "英文名": "Energy Crisis",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 238,
+        "任务ID": "6179b3bdc7560e13d23eeb8d",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>商业机密",
+        "英文名": "Corporate Secrets",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 239,
+        "任务ID": "6179b4d1bca27a099552e04e",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>无中生有 - 灯塔",
+        "英文名": "Revision - Lighthouse",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 240,
+        "任务ID": "6179b4f16e9dd54ac275e407",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>失踪货物",
+        "英文名": "Missing Cargo",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 241,
+        "任务ID": "6179b5b06e9dd54ac275e409",
+        "中文名": "占山为王",
+        "英文名": "Our Own Land",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 242,
+        "任务ID": "6179b5eabca27a099552e052",
+        "中文名": "反抗",
+        "英文名": "Counteraction",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 243,
+        "任务ID": "61904daa7d0d857927447b9c",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>隐士",
+        "英文名": "The Hermit",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 244,
+        "任务ID": "6193850f60b34236ee0483de",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>长路漫漫",
+        "英文名": "Long Road",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 245,
+        "任务ID": "61958c366726521dd96828ec",
+        "中文名": "<color=#228B22><b>「灯塔之匙」</b></color><color=#FFA500><b>「主线任务」</b></color>神秘货物 - 4",
+        "英文名": "Cargo X - Part 4",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 246,
+        "任务ID": "61e6e5e0f5b9633f6719ed95",
+        "中文名": "亡羊补牢 - 信任",
+        "英文名": "Compensation for Damage - Trust",
+        "商人ID": "579dc571d53a0658a154fbec",
+        "商人名": "Fence"
+    },
+    {
+        "数字ID": 247,
+        "任务ID": "61e6e60223374d168a4576a6",
+        "中文名": "亡羊补牢 - 赌注",
+        "英文名": "Compensation for Damage - Wager",
+        "商人ID": "579dc571d53a0658a154fbec",
+        "商人名": "Fence"
+    },
+    {
+        "数字ID": 248,
+        "任务ID": "61e6e615eea2935bc018a2c5",
+        "中文名": "亡羊补牢 - 酒保",
+        "英文名": "Compensation for Damage - Barkeep",
+        "商人ID": "579dc571d53a0658a154fbec",
+        "商人名": "Fence"
+    },
+    {
+        "数字ID": 249,
+        "任务ID": "61e6e621bfeab00251576265",
+        "中文名": "亡羊补牢 - 收藏",
+        "英文名": "Compensation for Damage - Collection",
+        "商人ID": "579dc571d53a0658a154fbec",
+        "商人名": "Fence"
+    },
+    {
+        "数字ID": 250,
+        "任务ID": "625d6ff5ddc94657c21a1625",
+        "中文名": "网络供应商 - 1",
+        "英文名": "Network Provider - Part 1",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 251,
+        "任务ID": "625d6ffaf7308432be1d44c5",
+        "中文名": "网络供应商 - 2",
+        "英文名": "Network Provider - Part 2",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 252,
+        "任务ID": "625d6ffcaa168e51321d69d7",
+        "中文名": "试探 - 1",
+        "英文名": "Assessment - Part 1",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 253,
+        "任务ID": "625d6fff4149f1149b5b12c9",
+        "中文名": "试探 - 2",
+        "英文名": "Assessment - Part 2",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 254,
+        "任务ID": "625d7001c4874104f230c0c5",
+        "中文名": "试探 - 3",
+        "英文名": "Assessment - Part 3",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 255,
+        "任务ID": "625d70031ed3bb5bcc5bd9e5",
+        "中文名": "灯塔之匙",
+        "英文名": "Key to the Tower",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 256,
+        "任务ID": "625d7005a4eb80027c4f2e09",
+        "中文名": "咚咚咚",
+        "英文名": "Knock-Knock",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 257,
+        "任务ID": "625d700cc48e6c62a440fab5",
+        "中文名": "邂逅",
+        "英文名": "Getting Acquainted",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 258,
+        "任务ID": "626148251ed3bb5bcc5bd9ed",
+        "中文名": "破镜重圆 - 收买人心",
+        "英文名": "Make Amends - Buyout",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 259,
+        "任务ID": "6261482fa4eb80027c4f2e11",
+        "中文名": "破镜重圆 - 装备",
+        "英文名": "Make Amends - Equipment",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 260,
+        "任务ID": "626bd75b05f287031503c7f6",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>缉毒行动",
+        "英文名": "Drug Trafficking",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 261,
+        "任务ID": "626bd75c71bd851e971b82a5",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>踩点行动",
+        "英文名": "Reconnaissance",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 262,
+        "任务ID": "626bd75d5bef5d7d590bd415",
+        "中文名": "头号机密",
+        "英文名": "Top Secret",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 263,
+        "任务ID": "626bd75e47ea7f506e5493c5",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>直播 - 1",
+        "英文名": "Broadcast - Part 1",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 264,
+        "任务ID": "626bdcc3a371ee3a7a3514c5",
+        "中文名": "<color=#FFA500><b>「主线任务」</b></color>流浪狗",
+        "英文名": "Stray Dogs",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 265,
+        "任务ID": "638fcd23dc65553116701d33",
+        "中文名": "审计",
+        "英文名": "Audit",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 266,
+        "任务ID": "639135534b15ca31f76bc317",
+        "中文名": "你的车该洗了",
+        "英文名": "Your Car Needs a Service",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 267,
+        "任务ID": "6391359b9444fb141f4e6ee6",
+        "中文名": "一信之缘",
+        "英文名": "You've Got Mail",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 268,
+        "任务ID": "639135a7e705511c8a4a1b78",
+        "中文名": "芭蕾舞者",
+        "英文名": "Ballet Lover",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 269,
+        "任务ID": "639135b04ed9512be67647d7",
+        "中文名": "苏共之辉 - 1",
+        "英文名": "Glory to CPSU - Part 1",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 270,
+        "任务ID": "639135bbc115f907b14700a6",
+        "中文名": "高保真",
+        "英文名": "Audiophile",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 271,
+        "任务ID": "639135c3744e452011470807",
+        "中文名": "<color=#228B22><b>「灯塔之匙」</b></color>软禁 - 1",
+        "英文名": "House Arrest - Part 1",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 272,
+        "任务ID": "639135cd8ba6894d155e77cb",
+        "中文名": "软禁 - 2",
+        "英文名": "House Arrest - Part 2",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 273,
+        "任务ID": "639135d89444fb141f4e6eea",
+        "中文名": "人口普查",
+        "英文名": "Population Census",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 274,
+        "任务ID": "639135e0fa894f0a866afde6",
+        "中文名": "城市的解药",
+        "英文名": "Urban Medicine",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 275,
+        "任务ID": "639135e8c115f907b14700aa",
+        "中文名": "探望",
+        "英文名": "Surveillance",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 276,
+        "任务ID": "639135f286e646067c176a87",
+        "中文名": "无中生有 - 塔科夫街区",
+        "英文名": "Revision - Streets of Tarkov",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 277,
+        "任务ID": "639136d68ba6894d155e77cf",
+        "中文名": "绿色通道",
+        "英文名": "Green Corridor",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 278,
+        "任务ID": "639136df4b15ca31f76bc31f",
+        "中文名": "猎人之路 - 管理者",
+        "英文名": "The Huntsman Path - Administrator",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 279,
+        "任务ID": "639136e84ed9512be67647db",
+        "中文名": "别开枪！",
+        "英文名": "Cease Fire!",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 280,
+        "任务ID": "639136f086e646067c176a8b",
+        "中文名": "屋顶战神",
+        "英文名": "Kings of the Rooftops",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 281,
+        "任务ID": "639136fa9444fb141f4e6eee",
+        "中文名": "你被盯上了",
+        "英文名": "Watching You",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 282,
+        "任务ID": "63913715f8e5dd32bf4e3aaa",
+        "中文名": "<color=#228B22><b>「灯塔之匙」</b></color>直播 - 2",
+        "英文名": "Broadcast - Part 2",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 283,
+        "任务ID": "6391372c8ba6894d155e77d7",
+        "中文名": "直播 - 4",
+        "英文名": "Broadcast - Part 4",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 284,
+        "任务ID": "6391d90f4ed9512be67647df",
+        "中文名": "破镜重圆",
+        "英文名": "Make Amends",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 285,
+        "任务ID": "639282134ed9512be67647ed",
+        "中文名": "此路不通",
+        "英文名": "Road Closed",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 286,
+        "任务ID": "63966faeea19ac7ed845db2c",
+        "中文名": "情报之源",
+        "英文名": "Information Source",
+        "商人ID": "638f541a29ffd1183d187f57",
+        "商人名": "Lightkeeper"
+    },
+    {
+        "数字ID": 287,
+        "任务ID": "63966fbeea19ac7ed845db2e",
+        "中文名": "失踪的线人",
+        "英文名": "Missing Informant",
+        "商人ID": "638f541a29ffd1183d187f57",
+        "商人名": "Lightkeeper"
+    },
+    {
+        "数字ID": 288,
+        "任务ID": "63966fccac6f8f3c677b9d89",
+        "中文名": "抢夺先机",
+        "英文名": "Snatch",
+        "商人ID": "638f541a29ffd1183d187f57",
+        "商人名": "Lightkeeper"
+    },
+    {
+        "数字ID": 289,
+        "任务ID": "63966fd9ea19ac7ed845db30",
+        "中文名": "以牙还牙",
+        "英文名": "Payback",
+        "商人ID": "638f541a29ffd1183d187f57",
+        "商人名": "Lightkeeper"
+    },
+    {
+        "数字ID": 290,
+        "任务ID": "63966fe7ea74a47c2d3fc0e6",
+        "中文名": "归还人情",
+        "英文名": "Return the Favor",
+        "商人ID": "638f541a29ffd1183d187f57",
+        "商人名": "Lightkeeper"
+    },
+    {
+        "数字ID": 291,
+        "任务ID": "63966ff54c3ef01b6f3ffad8",
+        "中文名": "挑衅",
+        "英文名": "Provocation",
+        "商人ID": "638f541a29ffd1183d187f57",
+        "商人名": "Lightkeeper"
+    },
+    {
+        "数字ID": 292,
+        "任务ID": "639670029113f06a7c3b2377",
+        "中文名": "按图索骥",
+        "英文名": "Following the Bread Crumbs",
+        "商人ID": "638f541a29ffd1183d187f57",
+        "商人名": "Lightkeeper"
+    },
+    {
+        "数字ID": 293,
+        "任务ID": "6396700fea19ac7ed845db32",
+        "中文名": "观察员",
+        "英文名": "Spotter",
+        "商人ID": "638f541a29ffd1183d187f57",
+        "商人名": "Lightkeeper"
+    },
+    {
+        "数字ID": 294,
+        "任务ID": "6396701b9113f06a7c3b2379",
+        "中文名": "大显身手",
+        "英文名": "Make an Impression",
+        "商人ID": "638f541a29ffd1183d187f57",
+        "商人名": "Lightkeeper"
+    },
+    {
+        "数字ID": 295,
+        "任务ID": "63967028c4a91c5cb76abd81",
+        "中文名": "大都会之谜",
+        "英文名": "Trouble in the Big City",
+        "商人ID": "638f541a29ffd1183d187f57",
+        "商人名": "Lightkeeper"
+    },
+    {
+        "数字ID": 296,
+        "任务ID": "639872f9decada40426d3447",
+        "中文名": "枪匠 - 4",
+        "英文名": "Gunsmith - Part 4",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 297,
+        "任务ID": "639872fa9b4fb827b200d8e5",
+        "中文名": "枪匠 - 9",
+        "英文名": "Gunsmith - Part 9",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 298,
+        "任务ID": "639872fc93ae507d5858c3a6",
+        "中文名": "枪匠 - 11",
+        "英文名": "Gunsmith - Part 11",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 299,
+        "任务ID": "639872fe8871e1272b10ccf6",
+        "中文名": "枪匠 - 14",
+        "英文名": "Gunsmith - Part 14",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 300,
+        "任务ID": "639873003693c63d86328f25",
+        "中文名": "枪匠 - 19",
+        "英文名": "Gunsmith - Part 19",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 301,
+        "任务ID": "63987301e11ec11ff5504036",
+        "中文名": "枪匠 - 21",
+        "英文名": "Gunsmith - Part 21",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 302,
+        "任务ID": "639dbaf17c898a131e1cffff",
+        "中文名": "老赖",
+        "英文名": "Debtor",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 303,
+        "任务ID": "63a511ea30d85e10e375b045",
+        "中文名": "直播 - 3",
+        "英文名": "Broadcast - Part 3",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 304,
+        "任务ID": "63a5cf262964a7488f5243ce",
+        "中文名": "试驾 - 2",
+        "英文名": "Test Drive - Part 2",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 305,
+        "任务ID": "63a88045abf76d719f42d715",
+        "中文名": "美味香肠",
+        "英文名": "The Delicious Sausage",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 306,
+        "任务ID": "63a9ae24009ffc6a551631a5",
+        "中文名": "最好的差事",
+        "英文名": "Best Job in the World",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 307,
+        "任务ID": "63a9b229813bba58a50c9ee5",
+        "中文名": "最烂的差事",
+        "英文名": "Worst Job in the World",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 308,
+        "任务ID": "63a9b36cc31b00242d28a99f",
+        "中文名": "屠宰场",
+        "英文名": "Slaughterhouse",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 309,
+        "任务ID": "63ab180c87413d64ae0ac20a",
+        "中文名": "危险之路",
+        "英文名": "Dangerous Road",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 310,
+        "任务ID": "641dbfd7f43eda9d810d7137",
+        "中文名": "重要伤员",
+        "英文名": "Important Patient",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 311,
+        "任务ID": "64764abcd125ab430a14ccb5",
+        "中文名": "寻血猎犬",
+        "英文名": "Bloodhounds",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 312,
+        "任务ID": "647710905320c660d91c15a5",
+        "中文名": "杀鸡儆猴",
+        "英文名": "Hint",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 313,
+        "任务ID": "64916da7ad4e722c106f2345",
+        "中文名": "东窗事发",
+        "英文名": "Failed Setup",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 314,
+        "任务ID": "649567f359eab30d1b7c9585",
+        "中文名": "观光客",
+        "英文名": "Hustle",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 315,
+        "任务ID": "649570491bb4d158bc4d0168",
+        "中文名": "吹哨人",
+        "英文名": "Tourists",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 316,
+        "任务ID": "649af47d717cb30e7e4b5e26",
+        "中文名": "品“酒”师",
+        "英文名": "Cocktail Tasting",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 317,
+        "任务ID": "64e7b971f9d6fa49d6769b44",
+        "中文名": "猎人之路 - 大动作",
+        "英文名": "The Huntsman Path - Big Game",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 318,
+        "任务ID": "64e7b99017ab941a6f7bf9d7",
+        "中文名": "出警 - 商场",
+        "英文名": "Gendarmerie - Mall Cop",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 319,
+        "任务ID": "64e7b9a4aac4cd0a726562cb",
+        "中文名": "出警 - 检票",
+        "英文名": "Gendarmerie - Tickets, Please",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 320,
+        "任务ID": "64e7b9bffd30422ed03dad38",
+        "中文名": "出警 - 巡逻",
+        "英文名": "Gendarmerie - District Patrol",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 321,
+        "任务ID": "64ee99639878a0569d6ec8c9",
+        "中文名": "直播 - 5",
+        "英文名": "Broadcast - Part 5",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 322,
+        "任务ID": "64ee9df4496db64f9b7a4432",
+        "中文名": "神秘的门",
+        "英文名": "The Door",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 323,
+        "任务ID": "64f1cc571a5f313cb144bf90",
+        "中文名": "外部信任 - 1",
+        "英文名": "Overseas Trust - Part 1",
+        "商人ID": "638f541a29ffd1183d187f57",
+        "商人名": "Lightkeeper"
+    },
+    {
+        "数字ID": 324,
+        "任务ID": "64f1d6e732bed22c3e0c7423",
+        "中文名": "外部信任 - 2",
+        "英文名": "Overseas Trust - Part 2",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 325,
+        "任务ID": "64f3176921045e77405d63b5",
+        "中文名": "再寻救护车",
+        "英文名": "Ambulances Again",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 326,
+        "任务ID": "64f5aac4b63b74469b6c14c2",
+        "中文名": "苏共之辉 - 2",
+        "英文名": "Glory to CPSU - Part 2",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 327,
+        "任务ID": "64f5deac39e45b527a7c4232",
+        "中文名": "试驾 - 3",
+        "英文名": "Test Drive - Part 3",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 328,
+        "任务ID": "64f5e20652fc01298e2c61e3",
+        "中文名": "好吃到上瘾 - 1",
+        "英文名": "Beyond the Red Meat - Part 1",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 329,
+        "任务ID": "64f6aafd67e11a7c6206e0d0",
+        "中文名": "好吃到上瘾 - 2",
+        "英文名": "Beyond the Red Meat - Part 2",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 330,
+        "任务ID": "64f731ab83cfca080a361e42",
+        "中文名": "兽医也是医 - 1",
+        "英文名": "Pets Won't Need It - Part 1",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 331,
+        "任务ID": "64f83bb69878a0569d6ecfbe",
+        "中文名": "枪匠 - 23",
+        "英文名": "Gunsmith - Part 23",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 332,
+        "任务ID": "64f83bcdde58fc437700d8fa",
+        "中文名": "枪匠 - 24",
+        "英文名": "Gunsmith - Part 24",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 333,
+        "任务ID": "64f83bd983cfca080a362c82",
+        "中文名": "枪匠 - 25",
+        "英文名": "Gunsmith - Part 25",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 334,
+        "任务ID": "655e427b64d09b4122018228",
+        "中文名": "惩罚者 - 大丰收",
+        "英文名": "The Punisher. Harvest",
+        "商人ID": "5935c25fb3acc3127c3d8cd9",
+        "商人名": "Peacekeeper"
+    },
+    {
+        "数字ID": 335,
+        "任务ID": "6572e876dc0d635f633a5714",
+        "中文名": "发财计划",
+        "英文名": "Pyramid Scheme",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 336,
+        "任务ID": "657315ddab5a49b71f098853",
+        "中文名": "新手上路",
+        "英文名": "First in Line",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 337,
+        "任务ID": "657315df034d76585f032e01",
+        "中文名": "打靶训练",
+        "英文名": "Shooting Cans",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 338,
+        "任务ID": "657315e1dccd301f1301416a",
+        "中文名": "奢靡人生",
+        "英文名": "Luxurious Life",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 339,
+        "任务ID": "657315e270bb0b8dba00cc48",
+        "中文名": "快车初体验",
+        "英文名": "Burning Rubber",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 340,
+        "任务ID": "657315e4a6af4ab4b50f3459",
+        "中文名": "救援行动",
+        "英文名": "Saving the Mole",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 341,
+        "任务ID": "65733403eefc2c312a759ddb",
+        "中文名": "开发者之谜 - 1",
+        "英文名": "Developer's Secrets - Part 1",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 342,
+        "任务ID": "6573382e557ff128bf3da536",
+        "中文名": "开发者之谜 - 2",
+        "英文名": "Developer's Secrets - Part 2",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 343,
+        "任务ID": "6573387d0b26ed4fde798de3",
+        "中文名": "兽医也是医 - 2",
+        "英文名": "Pets Won't Need It - Part 2",
+        "商人ID": "54cb57776803fa99248b456e",
+        "商人名": "Therapist"
+    },
+    {
+        "数字ID": 344,
+        "任务ID": "6573397ef3f8344c4575cd87",
+        "中文名": "财不外露",
+        "英文名": "Properties All Around",
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 345,
+        "任务ID": "65734c186dc1e402c80dc19e",
+        "中文名": "花花公子",
+        "英文名": "Dandies",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 346,
+        "任务ID": "6578eb36e5020875d64645cd",
+        "中文名": "猎人之路 - 坏警察",
+        "英文名": "The Huntsman Path - Crooked Cop",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 347,
+        "任务ID": "6578ec473dbd035d04531a8d",
+        "中文名": "稳定信号",
+        "英文名": "Steady Signal",
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 348,
+        "任务ID": "658027799634223183395339",
+        "中文名": "禁止打劫",
+        "英文名": "No Swiping",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 349,
+        "任务ID": "65802b627b44fa5e14638899",
+        "中文名": "绝不上当",
+        "英文名": "Nothing Fishy About This",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 350,
+        "任务ID": "65e851a98f0b5f70ff393d90",
+        "中文名": "undefined",
+        "英文名": null,
+        "商人ID": "54cb50c76803fa8b248b4571",
+        "商人名": "Prapor"
+    },
+    {
+        "数字ID": 351,
+        "任务ID": "6603fe74e773dcf3b0099f88",
+        "中文名": "The Tarkov Mystery",
+        "英文名": "The Tarkov Mystery",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 352,
+        "任务ID": "66058cb22cee99303f1ba067",
+        "中文名": "Easy Money - Part 1",
+        "英文名": "Easy Money - Part 1",
+        "商人ID": "58330581ace78e27b8b10cee",
+        "商人名": "Skier"
+    },
+    {
+        "数字ID": 353,
+        "任务ID": "6613f3007f6666d56807c929",
+        "中文名": "Drip-Out - Part 1",
+        "英文名": "Drip-Out - Part 1",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 354,
+        "任务ID": "6613f307fca4f2f386029409",
+        "中文名": "Drip-Out - Part 2",
+        "英文名": "Drip-Out - Part 2",
+        "商人ID": "5ac3b934156ae10c4430e83c",
+        "商人名": "Ragman"
+    },
+    {
+        "数字ID": 355,
+        "任务ID": "6658a15615cbb1b2c6014d5b",
+        "中文名": "杀鸡儆猴",
+        "英文名": "Hustle",
+        "商人ID": "5c0647fdd443bc2504c2d371",
+        "商人名": "Jaeger"
+    },
+    {
+        "数字ID": 356,
+        "任务ID": "成就: THE INTERNET ANGEL be INVOKED",
+        "中文名": "「成就」THE INTERNET ANGEL Be INVOKED",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 357,
+        "任务ID": "成就: 断面之意",
+        "中文名": "「成就」断面之意",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 358,
+        "任务ID": "成就: 百鬼降服",
+        "中文名": "「成就」百鬼降服",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 359,
+        "任务ID": "成就: 锐气千刃",
+        "中文名": "「成就」锐气千刃",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 360,
+        "任务ID": "成就: 万劫不复",
+        "中文名": "「成就」万劫不复",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 361,
+        "任务ID": "成就: 列宁勋章",
+        "中文名": "「成就」列宁勋章",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 362,
+        "任务ID": "成就: 希波克拉底誓言",
+        "中文名": "「成就」希波克拉底誓言",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 363,
+        "任务ID": "成就: 要亲近朋友…",
+        "中文名": "「成就」要亲近朋友…",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 364,
+        "任务ID": "成就: 百万欧元",
+        "中文名": "「成就」百万欧元",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 365,
+        "任务ID": "成就: 白手套",
+        "中文名": "「成就」白手套",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 366,
+        "任务ID": "成就: 技术宅拯救世界",
+        "中文名": "「成就」技术宅拯救世界",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 367,
+        "任务ID": "成就: IDEA终身会员",
+        "中文名": "「成就」IDEA终身会员",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 368,
+        "任务ID": "成就: 荒野的呼唤",
+        "中文名": "「成就」荒野的呼唤",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 369,
+        "任务ID": "成就: 百步穿杨",
+        "中文名": "「成就」百步穿杨",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 370,
+        "任务ID": "成就: 正中靶心",
+        "中文名": "「成就」正中靶心",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 371,
+        "任务ID": "成就: 天神射手",
+        "中文名": "「成就」天神射手",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 372,
+        "任务ID": "成就: 死亡凝视",
+        "中文名": "「成就」死亡凝视",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 373,
+        "任务ID": "成就: 幽灵子弹",
+        "中文名": "「成就」幽灵子弹",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 374,
+        "任务ID": "成就: 独步长空",
+        "中文名": "「成就」独步长空",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 375,
+        "任务ID": "PersicariaTask1",
+        "中文名": "重逢",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 376,
+        "任务ID": "PersicariaTecTask1",
+        "中文名": "技术援助 - 1",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 377,
+        "任务ID": "PersicariaTecTask2",
+        "中文名": "技术援助 - 2",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 378,
+        "任务ID": "PersicariaTecTask3",
+        "中文名": "技术援助 - 3",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 379,
+        "任务ID": "PersicariaTecTask4",
+        "中文名": "技术援助 - 4",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 380,
+        "任务ID": "PersicariaMedTask1",
+        "中文名": "白衣天使 - 1",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 381,
+        "任务ID": "PersicariaMedTask2",
+        "中文名": "白衣天使 - 2",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 382,
+        "任务ID": "PersicariaMedTask3",
+        "中文名": "白衣天使 - 3",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 383,
+        "任务ID": "PersicariaMedTask4",
+        "中文名": "白衣天使 - 4",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 384,
+        "任务ID": "PersicariaWarTask1",
+        "中文名": "战争世界 - 1",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 385,
+        "任务ID": "PersicariaWarTask2",
+        "中文名": "战争世界 - 2",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 386,
+        "任务ID": "PersicariaWarTask3",
+        "中文名": "战争世界 - 3",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 387,
+        "任务ID": "PersicariaWarTask4",
+        "中文名": "战争世界 - 4",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 388,
+        "任务ID": "PersicariaDeadTask1",
+        "中文名": "我成了死神 - 金色天际线",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 389,
+        "任务ID": "PersicariaDeadTask2",
+        "中文名": "我成了死神 - 雄狮之眠",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 390,
+        "任务ID": "PersicariaDeadTask3",
+        "中文名": "我成了死神 - 量子装甲",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 391,
+        "任务ID": "PersicariaDeadTask4",
+        "中文名": "我成了死神 - 那个时髦的人",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 392,
+        "任务ID": "PersicariaDeadTask5",
+        "中文名": "我成了死神 - 狙击手的对决",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 393,
+        "任务ID": "PersicariaDeadTask6",
+        "中文名": "我成了死神 - 钢铁雄心",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 394,
+        "任务ID": "PersicariaDeadTask8",
+        "中文名": "我成了死神 - 掠食者之影",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 395,
+        "任务ID": "PersicariaDeadTask9",
+        "中文名": "我成了死神 - 吝啬鬼",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 396,
+        "任务ID": "PersicariaDeadTask7",
+        "中文名": "我成了死神 - 折断一把剑",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 397,
+        "任务ID": "PersicariaCodTask1",
+        "中文名": "Remember, No Russian",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 398,
+        "任务ID": "PersicariaBoxTask1",
+        "中文名": "选择之间",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 399,
+        "任务ID": "PersicariaBoxTask2",
+        "中文名": "你今晚要和我一起回家",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 400,
+        "任务ID": "PersicariaKeyTask1",
+        "中文名": "紧急封锁 - 1",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 401,
+        "任务ID": "PersicariaKeyTask2",
+        "中文名": "紧急封锁 - 2",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 402,
+        "任务ID": "PersicariaKeyTask3",
+        "中文名": "紧急封锁 - 3",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 403,
+        "任务ID": "PersicariaCyberTask1",
+        "中文名": "边缘行者",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 404,
+        "任务ID": "PersicariaFinalTask1",
+        "中文名": "五帝破空",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 405,
+        "任务ID": "PersicariaLeaveTask1",
+        "中文名": "供货商 - 1",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 406,
+        "任务ID": "PersicariaBladeTask1",
+        "中文名": "锐气千刃",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 407,
+        "任务ID": "太阳能维修",
+        "中文名": "太阳能维修",
+        "英文名": null,
+        "商人ID": "5a7c2eca46aef81a7ca2145d",
+        "商人名": "Mechanic"
+    },
+    {
+        "数字ID": 408,
+        "任务ID": "星星不闪包退换",
+        "中文名": "星星不闪包退换",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 409,
+        "任务ID": "进化甲进度显示",
+        "中文名": "进化护甲集成统计面板",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 410,
+        "任务ID": "白甲-蓝甲进度",
+        "中文名": "进化护甲统计面板 - 1",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 411,
+        "任务ID": "蓝甲-紫甲进度",
+        "中文名": "进化护甲统计面板 - 2",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 412,
+        "任务ID": "紫甲-红甲进度",
+        "中文名": "进化护甲统计面板 - 3",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 413,
+        "任务ID": "风暴轮转",
+        "中文名": "风暴轮转，日月恒常",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 414,
+        "任务ID": "序幕-契约战争",
+        "中文名": "序幕 - 契约战争",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 415,
+        "任务ID": "第二轮太阳",
+        "中文名": "关键节点 - 第二轮太阳",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 416,
+        "任务ID": "向着明天",
+        "中文名": "关键节点 - 向着明天",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 417,
+        "任务ID": "阴影之下",
+        "中文名": "阴影之下",
+        "英文名": null,
+        "商人ID": "Persicaria",
+        "商人名": "千叶玲花"
+    },
+    {
+        "数字ID": 418,
+        "任务ID": "示例任务1",
+        "中文名": "示例任务1",
+        "英文名": null,
+        "商人ID": "ExampleTrader",
+        "商人名": "范例商人"
+    },
+    {
+        "数字ID": 419,
+        "任务ID": "示例任务2",
+        "中文名": "示例任务2",
+        "英文名": null,
+        "商人ID": "ExampleTrader",
+        "商人名": "范例商人"
+    },
+    {
+        "数字ID": 420,
+        "任务ID": "示例任务3",
+        "中文名": "示例任务3",
+        "英文名": null,
+        "商人ID": "ExampleTrader",
+        "商人名": "范例商人"
+    },
+    {
+        "数字ID": 421,
+        "任务ID": "示例任务4",
+        "中文名": "示例任务4",
+        "英文名": null,
+        "商人ID": "ExampleTrader",
+        "商人名": "范例商人"
+    },
+    {
+        "数字ID": 422,
+        "任务ID": "重复任务_剿灭",
+        "中文名": "可重复委托: 剿灭",
+        "英文名": null,
+        "商人ID": "TradeCenter",
+        "商人名": "罗德岛外务所"
+    }
+]
