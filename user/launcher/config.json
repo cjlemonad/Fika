@@ -1,0 +1,17 @@
+{
+  "FirstRun": false,
+  "DefaultLocale": "Chinese (Simplified)",
+  "LauncherStartGameAction": 0,
+  "UseAutoLogin": true,
+  "IsDevMode": true,
+  "GamePath": "D:\\OneDrive - MSFT\\Game\\Escape From Tarkov\\3.9.2.0.14.30626",
+  "ExcludeFromCleanup": [],
+  "Server": {
+    "AutoLoginCreds": {
+      "Username": "lemon",
+      "Password": ""
+    },
+    "Name": "SPT",
+    "Url": "http://192.168.1.5:6969"
+  }
+}

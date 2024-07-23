@@ -1,0 +1,46 @@
+[2024-07-23 17:44:36] ==== Launcher Started ====
+[2024-07-23 17:44:36][Warning] Launcher config not found
+[2024-07-23 17:44:36][Info] Creating launcher config: D:\OneDrive - MSFT\Game\Escape From Tarkov\3.9.2.0.14.30626\user\launcher\config.json
+[2024-07-23 17:44:36][Info] Using launcher config at: D:\OneDrive - MSFT\Game\Escape From Tarkov\3.9.2.0.14.30626\user\launcher\config.json
+[2024-07-23 17:44:36][Info] Using launcher config at: D:\OneDrive - MSFT\Game\Escape From Tarkov\3.9.2.0.14.30626\user\launcher\config.json
+[2024-07-23 17:44:36][Info] Server URL is already set to default 'http://127.0.0.1:6969'
+[2024-07-23 17:44:36][Info] Game path is already set to default 'D:\OneDrive - MSFT\Game\Escape From Tarkov\3.9.2.0.14.30626'
+[2024-07-23 17:49:52][DEV_MODE][Info] Connected to server: http://192.168.1.5:6969 - SPT Version: 3.9.2
+[2024-07-23 17:50:21][DEV_MODE][Info] Account Registered: lemon
+[2024-07-23 17:50:31][DEV_MODE][Info] >>> Launching Game
+[2024-07-23 17:50:31][DEV_MODE][Info] >>> Account: lemon
+[2024-07-23 17:50:31][DEV_MODE][Info] >>> Server : http://192.168.1.5:6969
+[2024-07-23 17:50:31][DEV_MODE][Info] [LaunchGame] spt-core.dll version: 3.9.2
+[2024-07-23 17:50:31][DEV_MODE][Info] [LaunchGame] Installed in Live :: NO
+[2024-07-23 17:50:31][DEV_MODE][Info] [LaunchGame] Setup Game Files ...
+[2024-07-23 17:50:31][DEV_MODE][Info] Recursive Removal: D:\OneDrive - MSFT\Game\Escape From Tarkov\3.9.2.0.14.30626\BattlEye
+[2024-07-23 17:50:31][DEV_MODE][Info] Recursive Removal: D:\OneDrive - MSFT\Game\Escape From Tarkov\3.9.2.0.14.30626\BattlEye\Text
+[2024-07-23 17:50:31][DEV_MODE][Info] [LaunchGame] Game Validation   :: OK
+[2024-07-23 17:50:31][DEV_MODE][Info] [LaunchGame] Wipe profile requested
+[2024-07-23 17:50:31][DEV_MODE][Info] [LaunchGame] Valid Game Path   :: OK
+[2024-07-23 17:50:32][DEV_MODE][Info] [LaunchGame] Applying Patch    :: OK
+[2024-07-23 17:50:32][DEV_MODE][Info] [LaunchGame] Game process started
+[2024-07-23 17:54:03][DEV_MODE][Info] >>> Launching Game
+[2024-07-23 17:54:03][DEV_MODE][Info] >>> Account: lemon
+[2024-07-23 17:54:03][DEV_MODE][Info] >>> Server : http://192.168.1.5:6969
+[2024-07-23 17:54:03][DEV_MODE][Info] [LaunchGame] spt-core.dll version: 3.9.2
+[2024-07-23 17:54:03][DEV_MODE][Info] [LaunchGame] Installed in Live :: NO
+[2024-07-23 17:54:03][DEV_MODE][Info] [LaunchGame] Setup Game Files ...
+[2024-07-23 17:54:03][DEV_MODE][Info] Recursive Removal: D:\OneDrive - MSFT\Game\Escape From Tarkov\3.9.2.0.14.30626\Logs
+[2024-07-23 17:54:03][DEV_MODE][Info] Recursive Removal: D:\OneDrive - MSFT\Game\Escape From Tarkov\3.9.2.0.14.30626\Logs\log_2024.07.23_9-50-47_0.14.9.1.30626
+[2024-07-23 17:54:03][DEV_MODE][Info] [LaunchGame] Game Validation   :: OK
+[2024-07-23 17:54:03][DEV_MODE][Info] [LaunchGame] Valid Game Path   :: OK
+[2024-07-23 17:54:03][DEV_MODE][Info] [LaunchGame] Applying Patch    :: OK
+[2024-07-23 17:54:03][DEV_MODE][Info] [LaunchGame] Game process started
+[2024-07-23 17:54:59][DEV_MODE][Info] >>> Launching Game
+[2024-07-23 17:54:59][DEV_MODE][Info] >>> Account: lemon
+[2024-07-23 17:54:59][DEV_MODE][Info] >>> Server : http://192.168.1.5:6969
+[2024-07-23 17:54:59][DEV_MODE][Info] [LaunchGame] spt-core.dll version: 3.9.2
+[2024-07-23 17:54:59][DEV_MODE][Info] [LaunchGame] Installed in Live :: NO
+[2024-07-23 17:54:59][DEV_MODE][Info] [LaunchGame] Setup Game Files ...
+[2024-07-23 17:54:59][DEV_MODE][Info] Recursive Removal: D:\OneDrive - MSFT\Game\Escape From Tarkov\3.9.2.0.14.30626\Logs
+[2024-07-23 17:54:59][DEV_MODE][Info] Recursive Removal: D:\OneDrive - MSFT\Game\Escape From Tarkov\3.9.2.0.14.30626\Logs\log_2024.07.23_9-54-13_0.14.9.1.30626
+[2024-07-23 17:54:59][DEV_MODE][Info] [LaunchGame] Game Validation   :: OK
+[2024-07-23 17:54:59][DEV_MODE][Info] [LaunchGame] Valid Game Path   :: OK
+[2024-07-23 17:55:00][DEV_MODE][Info] [LaunchGame] Applying Patch    :: OK
+[2024-07-23 17:55:00][DEV_MODE][Info] [LaunchGame] Game process started
