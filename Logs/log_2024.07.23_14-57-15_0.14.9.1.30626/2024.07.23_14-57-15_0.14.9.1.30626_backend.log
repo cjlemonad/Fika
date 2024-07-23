@@ -1,0 +1,240 @@
+2024-07-23 22:57:28.760 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [1]: URL: http://192.168.1.5:6969/client/menu/locale/ch, crc: .  
+2024-07-23 22:57:28.819 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [1]: URL: http://192.168.1.5:6969/client/menu/locale/ch, crc: , responseText: . 
+2024-07-23 22:57:28.836 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [2]: URL: http://192.168.1.5:6969/client/game/mode, crc: .  
+2024-07-23 22:57:28.869 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [2]: URL: http://192.168.1.5:6969/client/game/mode, crc: , responseText: . 
+2024-07-23 22:57:28.869 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [3]: URL: http://192.168.1.5:6969/client/game/start, crc: .  
+2024-07-23 22:57:28.914 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [3]: URL: http://192.168.1.5:6969/client/game/start, crc: , responseText: . 
+2024-07-23 22:57:28.931 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [4]: URL: http://192.168.1.5:6969/client/game/version/validate, crc: .  
+2024-07-23 22:57:28.954 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [4]: URL: http://192.168.1.5:6969/client/game/version/validate, crc: , responseText: . 
+2024-07-23 22:57:28.954 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [5]: URL: http://192.168.1.5:6969/client/languages, crc: .  
+2024-07-23 22:57:28.977 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [5]: URL: http://192.168.1.5:6969/client/languages, crc: , responseText: . 
+2024-07-23 22:57:28.993 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [6]: URL: http://192.168.1.5:6969/client/game/config, crc: .  
+2024-07-23 22:57:29.017 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [6]: URL: http://192.168.1.5:6969/client/game/config, crc: , responseText: . 
+2024-07-23 22:57:31.189 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [7]: URL: http://192.168.1.5:6969/client/items, crc: .  
+2024-07-23 22:57:40.689 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [7]: URL: http://192.168.1.5:6969/client/items, crc: , responseText: . 
+2024-07-23 22:57:40.719 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [8]: URL: http://192.168.1.5:6969/client/customization, crc: .  
+2024-07-23 22:57:40.908 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [8]: URL: http://192.168.1.5:6969/client/customization, crc: , responseText: . 
+2024-07-23 22:57:40.942 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [9]: URL: http://192.168.1.5:6969/client/globals, crc: .  
+2024-07-23 22:57:41.767 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [9]: URL: http://192.168.1.5:6969/client/globals, crc: , responseText: . 
+2024-07-23 22:57:41.767 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [10]: URL: http://192.168.1.5:6969/client/trading/api/traderSettings, crc: .  
+2024-07-23 22:57:41.808 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [10]: URL: http://192.168.1.5:6969/client/trading/api/traderSettings, crc: , responseText: . 
+2024-07-23 22:57:41.808 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [11]: URL: http://192.168.1.5:6969/client/settings, crc: .  
+2024-07-23 22:57:41.835 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [11]: URL: http://192.168.1.5:6969/client/settings, crc: , responseText: . 
+2024-07-23 22:57:41.839 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [12]: URL: http://192.168.1.5:6969/client/game/profile/list, crc: .  
+2024-07-23 22:57:42.179 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [12]: URL: http://192.168.1.5:6969/client/game/profile/list, crc: , responseText: . 
+2024-07-23 22:57:42.188 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [13]: URL: http://192.168.1.5:6969/client/game/profile/select, crc: .  
+2024-07-23 22:57:42.208 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [13]: URL: http://192.168.1.5:6969/client/game/profile/select, crc: , responseText: . 
+2024-07-23 22:57:42.652 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [14]: URL: http://192.168.1.5:6969/client/profile/status, crc: .  
+2024-07-23 22:57:42.676 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [14]: URL: http://192.168.1.5:6969/client/profile/status, crc: , responseText: . 
+2024-07-23 22:57:42.705 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [15]: URL: http://192.168.1.5:6969/client/weather, crc: .  
+2024-07-23 22:57:42.705 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [16]: URL: http://192.168.1.5:6969/client/locale/ch, crc: .  
+2024-07-23 22:57:42.705 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [17]: URL: http://192.168.1.5:6969/client/locations, crc: .  
+2024-07-23 22:57:42.737 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [15]: URL: http://192.168.1.5:6969/client/weather, crc: , responseText: . 
+2024-07-23 22:57:43.174 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [16]: URL: http://192.168.1.5:6969/client/locale/ch, crc: , responseText: . 
+2024-07-23 22:57:44.213 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [17]: URL: http://192.168.1.5:6969/client/locations, crc: , responseText: . 
+2024-07-23 22:57:44.226 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [18]: URL: http://192.168.1.5:6969/client/handbook/templates, crc: .  
+2024-07-23 22:57:44.485 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [18]: URL: http://192.168.1.5:6969/client/handbook/templates, crc: , responseText: . 
+2024-07-23 22:57:47.402 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [19]: URL: http://192.168.1.5:6969/client/hideout/areas, crc: .  
+2024-07-23 22:57:47.447 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [19]: URL: http://192.168.1.5:6969/client/hideout/areas, crc: , responseText: . 
+2024-07-23 22:57:47.566 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [20]: URL: http://192.168.1.5:6969/client/hideout/qte/list, crc: .  
+2024-07-23 22:57:47.617 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [20]: URL: http://192.168.1.5:6969/client/hideout/qte/list, crc: , responseText: . 
+2024-07-23 22:57:47.617 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [21]: URL: http://192.168.1.5:6969/client/hideout/settings, crc: .  
+2024-07-23 22:57:47.638 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [21]: URL: http://192.168.1.5:6969/client/hideout/settings, crc: , responseText: . 
+2024-07-23 22:57:47.638 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [22]: URL: http://192.168.1.5:6969/client/hideout/production/recipes, crc: .  
+2024-07-23 22:57:47.794 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [22]: URL: http://192.168.1.5:6969/client/hideout/production/recipes, crc: , responseText: . 
+2024-07-23 22:57:47.794 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [23]: URL: http://192.168.1.5:6969/client/hideout/production/scavcase/recipes, crc: .  
+2024-07-23 22:57:47.819 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [23]: URL: http://192.168.1.5:6969/client/hideout/production/scavcase/recipes, crc: , responseText: . 
+2024-07-23 22:57:47.824 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [24]: URL: http://192.168.1.5:6969/client/builds/list, crc: .  
+2024-07-23 22:57:47.927 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [24]: URL: http://192.168.1.5:6969/client/builds/list, crc: , responseText: . 
+2024-07-23 22:57:51.816 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [25]: URL: http://192.168.1.5:6969/client/notifier/channel/create, crc: .  
+2024-07-23 22:57:51.816 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [26]: URL: http://192.168.1.5:6969/client/profile/status, crc: .  
+2024-07-23 22:57:51.816 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [27]: URL: http://192.168.1.5:6969/client/trading/customization/storage, crc: .  
+2024-07-23 22:57:51.836 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [25]: URL: http://192.168.1.5:6969/client/notifier/channel/create, crc: , responseText: . 
+2024-07-23 22:57:51.851 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [26]: URL: http://192.168.1.5:6969/client/profile/status, crc: , responseText: . 
+2024-07-23 22:57:51.851 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [27]: URL: http://192.168.1.5:6969/client/trading/customization/storage, crc: , responseText: . 
+2024-07-23 22:57:51.895 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [28]: URL: http://192.168.1.5:6969/client/server/list, crc: .  
+2024-07-23 22:57:51.895 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [29]: URL: http://192.168.1.5:6969/client/match/group/current, crc: .  
+2024-07-23 22:57:51.895 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [31]: URL: http://192.168.1.5:6969/client/friend/list, crc: .  
+2024-07-23 22:57:51.900 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [30]: URL: http://192.168.1.5:6969/client/mail/dialog/list, crc: .  
+2024-07-23 22:57:51.900 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [32]: URL: http://192.168.1.5:6969/client/friend/request/list/inbox, crc: .  
+2024-07-23 22:57:51.900 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [33]: URL: http://192.168.1.5:6969/client/friend/request/list/outbox, crc: .  
+2024-07-23 22:57:51.900 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [34]: URL: http://192.168.1.5:6969/client/quest/list, crc: .  
+2024-07-23 22:57:51.918 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [28]: URL: http://192.168.1.5:6969/client/server/list, crc: , responseText: . 
+2024-07-23 22:57:51.918 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [29]: URL: http://192.168.1.5:6969/client/match/group/current, crc: , responseText: . 
+2024-07-23 22:57:51.933 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [31]: URL: http://192.168.1.5:6969/client/friend/list, crc: , responseText: . 
+2024-07-23 22:57:51.933 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [32]: URL: http://192.168.1.5:6969/client/friend/request/list/inbox, crc: , responseText: . 
+2024-07-23 22:57:51.933 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [33]: URL: http://192.168.1.5:6969/client/friend/request/list/outbox, crc: , responseText: . 
+2024-07-23 22:57:51.933 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [30]: URL: http://192.168.1.5:6969/client/mail/dialog/list, crc: , responseText: . 
+2024-07-23 22:57:52.017 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [34]: URL: http://192.168.1.5:6969/client/quest/list, crc: , responseText: . 
+2024-07-23 22:57:52.044 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [35]: URL: http://192.168.1.5:6969/client/repeatalbeQuests/activityPeriods, crc: .  
+2024-07-23 22:57:52.059 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [35]: URL: http://192.168.1.5:6969/client/repeatalbeQuests/activityPeriods, crc: , responseText: . 
+2024-07-23 22:57:52.059 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [36]: URL: http://192.168.1.5:6969/client/achievement/statistic, crc: .  
+2024-07-23 22:57:52.092 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [36]: URL: http://192.168.1.5:6969/client/achievement/statistic, crc: , responseText: . 
+2024-07-23 22:57:52.092 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [37]: URL: http://192.168.1.5:6969/client/achievement/list, crc: .  
+2024-07-23 22:57:52.276 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [37]: URL: http://192.168.1.5:6969/client/achievement/list, crc: , responseText: . 
+2024-07-23 22:58:56.369 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [38]: URL: http://192.168.1.5:6969/client/insurance/items/list/cost, crc: .  
+2024-07-23 22:58:56.396 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [38]: URL: http://192.168.1.5:6969/client/insurance/items/list/cost, crc: , responseText: . 
+2024-07-23 22:59:15.850 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [39]: URL: http://192.168.1.5:6969/client/checkVersion, crc: .  
+2024-07-23 22:59:15.850 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [40]: URL: http://192.168.1.5:6969/client/items/prices/54cb50c76803fa8b248b4571, crc: .  
+2024-07-23 22:59:16.324 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [39]: URL: http://192.168.1.5:6969/client/checkVersion, crc: , responseText: . 
+2024-07-23 22:59:16.361 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [40]: URL: http://192.168.1.5:6969/client/items/prices/54cb50c76803fa8b248b4571, crc: , responseText: . 
+2024-07-23 22:59:16.367 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [41]: URL: http://192.168.1.5:6969/client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571, crc: .  
+2024-07-23 22:59:16.476 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [41]: URL: http://192.168.1.5:6969/client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571, crc: , responseText: . 
+2024-07-23 22:59:24.410 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [42]: URL: http://192.168.1.5:6969/client/items/prices/54cb57776803fa99248b456e, crc: .  
+2024-07-23 22:59:24.537 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [42]: URL: http://192.168.1.5:6969/client/items/prices/54cb57776803fa99248b456e, crc: , responseText: . 
+2024-07-23 22:59:24.537 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [43]: URL: http://192.168.1.5:6969/client/trading/api/getTraderAssort/54cb57776803fa99248b456e, crc: .  
+2024-07-23 22:59:24.635 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [43]: URL: http://192.168.1.5:6969/client/trading/api/getTraderAssort/54cb57776803fa99248b456e, crc: , responseText: . 
+2024-07-23 22:59:25.994 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [44]: URL: http://192.168.1.5:6969/client/game/profile/items/moving, crc: .  
+2024-07-23 22:59:26.034 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [45]: URL: http://192.168.1.5:6969/client/mail/dialog/info, crc: .  
+2024-07-23 22:59:26.049 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [45]: URL: http://192.168.1.5:6969/client/mail/dialog/info, crc: , responseText: . 
+2024-07-23 22:59:26.049 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [44]: URL: http://192.168.1.5:6969/client/game/profile/items/moving, crc: , responseText: . 
+2024-07-23 22:59:28.129 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [46]: URL: http://192.168.1.5:6969/client/game/profile/items/moving, crc: .  
+2024-07-23 22:59:28.148 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [47]: URL: http://192.168.1.5:6969/client/mail/dialog/info, crc: .  
+2024-07-23 22:59:28.148 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [46]: URL: http://192.168.1.5:6969/client/game/profile/items/moving, crc: , responseText: . 
+2024-07-23 22:59:28.196 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [47]: URL: http://192.168.1.5:6969/client/mail/dialog/info, crc: , responseText: . 
+2024-07-23 22:59:28.763 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [48]: URL: http://192.168.1.5:6969/client/items/prices/58330581ace78e27b8b10cee, crc: .  
+2024-07-23 22:59:28.839 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [48]: URL: http://192.168.1.5:6969/client/items/prices/58330581ace78e27b8b10cee, crc: , responseText: . 
+2024-07-23 22:59:28.839 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [49]: URL: http://192.168.1.5:6969/client/trading/api/getTraderAssort/58330581ace78e27b8b10cee, crc: .  
+2024-07-23 22:59:28.884 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [49]: URL: http://192.168.1.5:6969/client/trading/api/getTraderAssort/58330581ace78e27b8b10cee, crc: , responseText: . 
+2024-07-23 22:59:29.740 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [50]: URL: http://192.168.1.5:6969/client/game/profile/items/moving, crc: .  
+2024-07-23 22:59:29.759 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [51]: URL: http://192.168.1.5:6969/client/mail/dialog/info, crc: .  
+2024-07-23 22:59:29.759 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [50]: URL: http://192.168.1.5:6969/client/game/profile/items/moving, crc: , responseText: . 
+2024-07-23 22:59:29.801 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [51]: URL: http://192.168.1.5:6969/client/mail/dialog/info, crc: , responseText: . 
+2024-07-23 22:59:30.281 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [52]: URL: http://192.168.1.5:6969/client/items/prices/5935c25fb3acc3127c3d8cd9, crc: .  
+2024-07-23 22:59:30.394 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [52]: URL: http://192.168.1.5:6969/client/items/prices/5935c25fb3acc3127c3d8cd9, crc: , responseText: . 
+2024-07-23 22:59:30.400 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [53]: URL: http://192.168.1.5:6969/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9, crc: .  
+2024-07-23 22:59:30.501 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [53]: URL: http://192.168.1.5:6969/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9, crc: , responseText: . 
+2024-07-23 22:59:31.229 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [54]: URL: http://192.168.1.5:6969/client/items/prices/5a7c2eca46aef81a7ca2145d, crc: .  
+2024-07-23 22:59:31.307 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [54]: URL: http://192.168.1.5:6969/client/items/prices/5a7c2eca46aef81a7ca2145d, crc: , responseText: . 
+2024-07-23 22:59:31.307 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [55]: URL: http://192.168.1.5:6969/client/trading/api/getTraderAssort/5a7c2eca46aef81a7ca2145d, crc: .  
+2024-07-23 22:59:31.387 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [55]: URL: http://192.168.1.5:6969/client/trading/api/getTraderAssort/5a7c2eca46aef81a7ca2145d, crc: , responseText: . 
+2024-07-23 22:59:32.079 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [56]: URL: http://192.168.1.5:6969/client/game/profile/items/moving, crc: .  
+2024-07-23 22:59:32.094 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [57]: URL: http://192.168.1.5:6969/client/mail/dialog/info, crc: .  
+2024-07-23 22:59:32.102 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [56]: URL: http://192.168.1.5:6969/client/game/profile/items/moving, crc: , responseText: . 
+2024-07-23 22:59:32.146 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [57]: URL: http://192.168.1.5:6969/client/mail/dialog/info, crc: , responseText: . 
+2024-07-23 22:59:32.752 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [58]: URL: http://192.168.1.5:6969/client/items/prices/5ac3b934156ae10c4430e83c, crc: .  
+2024-07-23 22:59:32.829 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [58]: URL: http://192.168.1.5:6969/client/items/prices/5ac3b934156ae10c4430e83c, crc: , responseText: . 
+2024-07-23 22:59:32.829 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [59]: URL: http://192.168.1.5:6969/client/trading/api/getTraderAssort/5ac3b934156ae10c4430e83c, crc: .  
+2024-07-23 22:59:32.862 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [59]: URL: http://192.168.1.5:6969/client/trading/api/getTraderAssort/5ac3b934156ae10c4430e83c, crc: , responseText: . 
+2024-07-23 22:59:36.648 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [60]: URL: http://192.168.1.5:6969/client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571, crc: .  
+2024-07-23 22:59:36.747 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [60]: URL: http://192.168.1.5:6969/client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571, crc: , responseText: . 
+2024-07-23 22:59:39.726 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [61]: URL: http://192.168.1.5:6969/client/mail/dialog/view, crc: .  
+2024-07-23 22:59:39.746 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [61]: URL: http://192.168.1.5:6969/client/mail/dialog/view, crc: , responseText: . 
+2024-07-23 22:59:40.735 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [62]: URL: http://192.168.1.5:6969/client/mail/dialog/view, crc: .  
+2024-07-23 22:59:40.755 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [62]: URL: http://192.168.1.5:6969/client/mail/dialog/view, crc: , responseText: . 
+2024-07-23 22:59:40.996 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [63]: URL: http://192.168.1.5:6969/client/mail/dialog/view, crc: .  
+2024-07-23 22:59:41.019 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [63]: URL: http://192.168.1.5:6969/client/mail/dialog/view, crc: , responseText: . 
+2024-07-23 22:59:41.235 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [64]: URL: http://192.168.1.5:6969/client/mail/dialog/view, crc: .  
+2024-07-23 22:59:41.254 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [64]: URL: http://192.168.1.5:6969/client/mail/dialog/view, crc: , responseText: . 
+2024-07-23 22:59:42.282 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [65]: URL: http://192.168.1.5:6969/client/mail/dialog/getAllAttachments, crc: .  
+2024-07-23 22:59:42.299 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [65]: URL: http://192.168.1.5:6969/client/mail/dialog/getAllAttachments, crc: , responseText: . 
+2024-07-23 22:59:44.158 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [66]: URL: http://192.168.1.5:6969/client/game/profile/items/moving, crc: .  
+2024-07-23 22:59:44.298 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [66]: URL: http://192.168.1.5:6969/client/game/profile/items/moving, crc: , responseText: . 
+2024-07-23 23:01:44.866 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [67]: URL: http://192.168.1.5:6969/client/insurance/items/list/cost, crc: .  
+2024-07-23 23:01:44.890 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [67]: URL: http://192.168.1.5:6969/client/insurance/items/list/cost, crc: , responseText: . 
+2024-07-23 23:01:59.415 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [68]: URL: http://192.168.1.5:6969/client/match/group/exit_from_menu, crc: .  
+2024-07-23 23:01:59.471 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [68]: URL: http://192.168.1.5:6969/client/match/group/exit_from_menu, crc: , responseText: . 
+2024-07-23 23:03:04.581 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [69]: URL: http://192.168.1.5:6969/client/game/profile/items/moving, crc: .  
+2024-07-23 23:03:04.622 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [69]: URL: http://192.168.1.5:6969/client/game/profile/items/moving, crc: , responseText: . 
+2024-07-23 23:03:43.537 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [70]: URL: http://192.168.1.5:6969/client/match/group/exit_from_menu, crc: .  
+2024-07-23 23:03:43.556 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [70]: URL: http://192.168.1.5:6969/client/match/group/exit_from_menu, crc: , responseText: . 
+2024-07-23 23:05:06.987 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [71]: URL: http://192.168.1.5:6969/client/raid/configuration, crc: .  
+2024-07-23 23:05:07.021 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [71]: URL: http://192.168.1.5:6969/client/raid/configuration, crc: , responseText: . 
+2024-07-23 23:05:07.065 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [72]: URL: http://192.168.1.5:6969/client/location/getLocalloot, crc: .  
+2024-07-23 23:05:07.616 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [72]: URL: http://192.168.1.5:6969/client/location/getLocalloot, crc: , responseText: . 
+2024-07-23 23:05:58.638 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [73]: URL: http://192.168.1.5:6969/client/game/bot/generate, crc: .  
+2024-07-23 23:06:04.044 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [73]: URL: http://192.168.1.5:6969/client/game/bot/generate, crc: , responseText: . 
+2024-07-23 23:08:24.036 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [74]: URL: http://192.168.1.5:6969/client/game/keepalive, crc: .  
+2024-07-23 23:08:24.067 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [74]: URL: http://192.168.1.5:6969/client/game/keepalive, crc: , responseText: . 
+2024-07-23 23:10:44.071 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [75]: URL: http://192.168.1.5:6969/client/game/keepalive, crc: .  
+2024-07-23 23:10:44.110 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [75]: URL: http://192.168.1.5:6969/client/game/keepalive, crc: , responseText: . 
+2024-07-23 23:13:08.378 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [76]: URL: http://192.168.1.5:6969/client/match/offline/end, crc: .  
+2024-07-23 23:13:08.378 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [77]: URL: http://192.168.1.5:6969/client/game/keepalive, crc: .  
+2024-07-23 23:13:08.483 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [76]: URL: http://192.168.1.5:6969/client/match/offline/end, crc: , responseText: . 
+2024-07-23 23:13:08.483 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [77]: URL: http://192.168.1.5:6969/client/game/keepalive, crc: , responseText: . 
+2024-07-23 23:13:11.611 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [78]: URL: http://192.168.1.5:6969/client/game/profile/list, crc: .  
+2024-07-23 23:13:11.816 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [78]: URL: http://192.168.1.5:6969/client/game/profile/list, crc: , responseText: . 
+2024-07-23 23:13:11.816 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [79]: URL: http://192.168.1.5:6969/client/game/profile/select, crc: .  
+2024-07-23 23:13:11.834 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [79]: URL: http://192.168.1.5:6969/client/game/profile/select, crc: , responseText: . 
+2024-07-23 23:13:12.132 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [80]: URL: http://192.168.1.5:6969/client/profile/status, crc: .  
+2024-07-23 23:13:12.151 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [80]: URL: http://192.168.1.5:6969/client/profile/status, crc: , responseText: . 
+2024-07-23 23:13:12.151 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [81]: URL: http://192.168.1.5:6969/client/quest/list, crc: .  
+2024-07-23 23:13:12.186 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [81]: URL: http://192.168.1.5:6969/client/quest/list, crc: , responseText: . 
+2024-07-23 23:13:12.186 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [82]: URL: http://192.168.1.5:6969/client/repeatalbeQuests/activityPeriods, crc: .  
+2024-07-23 23:13:12.207 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [82]: URL: http://192.168.1.5:6969/client/repeatalbeQuests/activityPeriods, crc: , responseText: . 
+2024-07-23 23:13:12.211 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [83]: URL: http://192.168.1.5:6969/client/achievement/statistic, crc: .  
+2024-07-23 23:13:12.211 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [83]: URL: http://192.168.1.5:6969/client/achievement/statistic, crc: , responseText: . 
+2024-07-23 23:13:12.230 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [84]: URL: http://192.168.1.5:6969/client/achievement/list, crc: .  
+2024-07-23 23:13:12.374 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [84]: URL: http://192.168.1.5:6969/client/achievement/list, crc: , responseText: . 
+2024-07-23 23:13:21.093 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [85]: URL: http://192.168.1.5:6969/client/items, crc: .  
+2024-07-23 23:13:28.806 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [85]: URL: http://192.168.1.5:6969/client/items, crc: , responseText: . 
+2024-07-23 23:13:28.806 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [86]: URL: http://192.168.1.5:6969/client/customization, crc: .  
+2024-07-23 23:13:28.997 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [86]: URL: http://192.168.1.5:6969/client/customization, crc: , responseText: . 
+2024-07-23 23:13:28.997 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [87]: URL: http://192.168.1.5:6969/client/globals, crc: .  
+2024-07-23 23:13:29.464 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [87]: URL: http://192.168.1.5:6969/client/globals, crc: , responseText: . 
+2024-07-23 23:13:29.464 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [88]: URL: http://192.168.1.5:6969/client/trading/api/traderSettings, crc: .  
+2024-07-23 23:13:29.507 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [88]: URL: http://192.168.1.5:6969/client/trading/api/traderSettings, crc: , responseText: . 
+2024-07-23 23:13:29.516 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [89]: URL: http://192.168.1.5:6969/client/settings, crc: .  
+2024-07-23 23:13:29.529 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [89]: URL: http://192.168.1.5:6969/client/settings, crc: , responseText: . 
+2024-07-23 23:13:29.529 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [90]: URL: http://192.168.1.5:6969/client/game/profile/list, crc: .  
+2024-07-23 23:13:29.719 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [90]: URL: http://192.168.1.5:6969/client/game/profile/list, crc: , responseText: . 
+2024-07-23 23:13:29.728 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [91]: URL: http://192.168.1.5:6969/client/game/profile/select, crc: .  
+2024-07-23 23:13:29.728 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [91]: URL: http://192.168.1.5:6969/client/game/profile/select, crc: , responseText: . 
+2024-07-23 23:13:30.177 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [92]: URL: http://192.168.1.5:6969/client/profile/status, crc: .  
+2024-07-23 23:13:30.191 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [92]: URL: http://192.168.1.5:6969/client/profile/status, crc: , responseText: . 
+2024-07-23 23:13:30.198 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [93]: URL: http://192.168.1.5:6969/client/weather, crc: .  
+2024-07-23 23:13:30.198 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [94]: URL: http://192.168.1.5:6969/client/locations, crc: .  
+2024-07-23 23:13:30.214 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [93]: URL: http://192.168.1.5:6969/client/weather, crc: , responseText: . 
+2024-07-23 23:13:31.903 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [94]: URL: http://192.168.1.5:6969/client/locations, crc: , responseText: . 
+2024-07-23 23:13:31.903 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [95]: URL: http://192.168.1.5:6969/client/handbook/templates, crc: .  
+2024-07-23 23:13:32.117 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [95]: URL: http://192.168.1.5:6969/client/handbook/templates, crc: , responseText: . 
+2024-07-23 23:13:33.590 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [96]: URL: http://192.168.1.5:6969/client/hideout/areas, crc: .  
+2024-07-23 23:13:33.639 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [96]: URL: http://192.168.1.5:6969/client/hideout/areas, crc: , responseText: . 
+2024-07-23 23:13:33.705 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [97]: URL: http://192.168.1.5:6969/client/hideout/qte/list, crc: .  
+2024-07-23 23:13:33.720 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [97]: URL: http://192.168.1.5:6969/client/hideout/qte/list, crc: , responseText: . 
+2024-07-23 23:13:33.720 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [98]: URL: http://192.168.1.5:6969/client/hideout/settings, crc: .  
+2024-07-23 23:13:33.737 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [98]: URL: http://192.168.1.5:6969/client/hideout/settings, crc: , responseText: . 
+2024-07-23 23:13:33.737 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [99]: URL: http://192.168.1.5:6969/client/hideout/production/recipes, crc: .  
+2024-07-23 23:13:33.849 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [99]: URL: http://192.168.1.5:6969/client/hideout/production/recipes, crc: , responseText: . 
+2024-07-23 23:13:33.857 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [100]: URL: http://192.168.1.5:6969/client/hideout/production/scavcase/recipes, crc: .  
+2024-07-23 23:13:33.869 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [100]: URL: http://192.168.1.5:6969/client/hideout/production/scavcase/recipes, crc: , responseText: . 
+2024-07-23 23:13:33.869 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [101]: URL: http://192.168.1.5:6969/client/builds/list, crc: .  
+2024-07-23 23:13:33.947 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [101]: URL: http://192.168.1.5:6969/client/builds/list, crc: , responseText: . 
+2024-07-23 23:13:38.395 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [102]: URL: http://192.168.1.5:6969/client/notifier/channel/create, crc: .  
+2024-07-23 23:13:38.395 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [104]: URL: http://192.168.1.5:6969/client/trading/customization/storage, crc: .  
+2024-07-23 23:13:38.395 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [103]: URL: http://192.168.1.5:6969/client/profile/status, crc: .  
+2024-07-23 23:13:38.419 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [102]: URL: http://192.168.1.5:6969/client/notifier/channel/create, crc: , responseText: . 
+2024-07-23 23:13:38.419 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [104]: URL: http://192.168.1.5:6969/client/trading/customization/storage, crc: , responseText: . 
+2024-07-23 23:13:38.419 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [105]: URL: http://192.168.1.5:6969/client/server/list, crc: .  
+2024-07-23 23:13:38.419 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [106]: URL: http://192.168.1.5:6969/client/match/group/current, crc: .  
+2024-07-23 23:13:38.419 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [107]: URL: http://192.168.1.5:6969/client/mail/dialog/list, crc: .  
+2024-07-23 23:13:38.419 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [108]: URL: http://192.168.1.5:6969/client/friend/list, crc: .  
+2024-07-23 23:13:38.419 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [109]: URL: http://192.168.1.5:6969/client/friend/request/list/inbox, crc: .  
+2024-07-23 23:13:38.419 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [110]: URL: http://192.168.1.5:6969/client/friend/request/list/outbox, crc: .  
+2024-07-23 23:13:38.419 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [111]: URL: http://192.168.1.5:6969/client/quest/list, crc: .  
+2024-07-23 23:13:38.419 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [103]: URL: http://192.168.1.5:6969/client/profile/status, crc: , responseText: . 
+2024-07-23 23:13:38.447 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [109]: URL: http://192.168.1.5:6969/client/friend/request/list/inbox, crc: , responseText: . 
+2024-07-23 23:13:38.447 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [105]: URL: http://192.168.1.5:6969/client/server/list, crc: , responseText: . 
+2024-07-23 23:13:38.447 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [106]: URL: http://192.168.1.5:6969/client/match/group/current, crc: , responseText: . 
+2024-07-23 23:13:38.447 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [110]: URL: http://192.168.1.5:6969/client/friend/request/list/outbox, crc: , responseText: . 
+2024-07-23 23:13:38.447 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [108]: URL: http://192.168.1.5:6969/client/friend/list, crc: , responseText: . 
+2024-07-23 23:13:38.447 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [107]: URL: http://192.168.1.5:6969/client/mail/dialog/list, crc: , responseText: . 
+2024-07-23 23:13:38.472 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [111]: URL: http://192.168.1.5:6969/client/quest/list, crc: , responseText: . 
+2024-07-23 23:13:38.477 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [112]: URL: http://192.168.1.5:6969/client/repeatalbeQuests/activityPeriods, crc: .  
+2024-07-23 23:13:38.492 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [112]: URL: http://192.168.1.5:6969/client/repeatalbeQuests/activityPeriods, crc: , responseText: . 
+2024-07-23 23:13:38.492 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [113]: URL: http://192.168.1.5:6969/client/achievement/statistic, crc: .  
+2024-07-23 23:13:38.509 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [113]: URL: http://192.168.1.5:6969/client/achievement/statistic, crc: , responseText: . 
+2024-07-23 23:13:38.509 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [114]: URL: http://192.168.1.5:6969/client/achievement/list, crc: .  
+2024-07-23 23:13:38.646 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [114]: URL: http://192.168.1.5:6969/client/achievement/list, crc: , responseText: . 
+2024-07-23 23:14:01.799 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [115]: URL: http://192.168.1.5:6969/client/game/profile/items/moving, crc: .  
+2024-07-23 23:14:01.827 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [115]: URL: http://192.168.1.5:6969/client/game/profile/items/moving, crc: , responseText: . 
+2024-07-23 23:14:16.072 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [116]: URL: http://192.168.1.5:6969/client/checkVersion, crc: .  
+2024-07-23 23:14:16.092 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [116]: URL: http://192.168.1.5:6969/client/checkVersion, crc: , responseText: . 
+2024-07-23 23:15:01.692 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [117]: URL: http://192.168.1.5:6969/client/game/profile/items/moving, crc: .  
+2024-07-23 23:15:01.727 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [117]: URL: http://192.168.1.5:6969/client/game/profile/items/moving, crc: , responseText: . 
+2024-07-23 23:15:01.727 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [118]: URL: http://192.168.1.5:6969/client/game/profile/items/moving, crc: .  
+2024-07-23 23:15:01.754 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [118]: URL: http://192.168.1.5:6969/client/game/profile/items/moving, crc: , responseText: . 
+2024-07-23 23:15:11.020 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [119]: URL: http://192.168.1.5:6969/client/match/group/invite/cancel-all, crc: .  
+2024-07-23 23:15:11.042 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [119]: URL: http://192.168.1.5:6969/client/match/group/invite/cancel-all, crc: , responseText: . 
+2024-07-23 23:15:11.042 +08:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [120]: URL: http://192.168.1.5:6969/client/game/logout, crc: .  
+2024-07-23 23:15:11.074 +08:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [120]: URL: http://192.168.1.5:6969/client/game/logout, crc: , responseText: . 

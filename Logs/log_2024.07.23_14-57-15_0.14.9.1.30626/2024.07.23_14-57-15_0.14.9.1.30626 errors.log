@@ -1,0 +1,52 @@
+2024-07-23 22:57:45.578 +08:00|0.14.9.1.30626|Error|Default|Node 63a897c6b1ff6e29734fcc95 have no parent. 
+2024-07-23 22:57:45.578 +08:00|0.14.9.1.30626|Error|Default|Node 63a898a328e385334e0640a5 have no parent. 
+2024-07-23 22:57:45.578 +08:00|0.14.9.1.30626|Error|Default|Node 63a8970d7108f713591149f5 have no parent. 
+2024-07-23 22:57:48.215 +08:00|0.14.9.1.30626|Error|Default|Node 63a897c6b1ff6e29734fcc95 have no parent. 
+2024-07-23 22:57:48.215 +08:00|0.14.9.1.30626|Error|Default|Node 63a898a328e385334e0640a5 have no parent. 
+2024-07-23 22:57:48.215 +08:00|0.14.9.1.30626|Error|Default|Node 63a8970d7108f713591149f5 have no parent. 
+2024-07-23 22:57:48.947 +08:00|0.14.9.1.30626|Error|Default|Node 63a897c6b1ff6e29734fcc95 have no parent. 
+2024-07-23 22:57:48.947 +08:00|0.14.9.1.30626|Error|Default|Node 63a898a328e385334e0640a5 have no parent. 
+2024-07-23 22:57:48.947 +08:00|0.14.9.1.30626|Error|Default|Node 63a8970d7108f713591149f5 have no parent. 
+2024-07-23 22:57:49.830 +08:00|0.14.9.1.30626|Error|Default|Node 63a897c6b1ff6e29734fcc95 have no parent. 
+2024-07-23 22:57:49.830 +08:00|0.14.9.1.30626|Error|Default|Node 63a898a328e385334e0640a5 have no parent. 
+2024-07-23 22:57:49.830 +08:00|0.14.9.1.30626|Error|Default|Node 63a8970d7108f713591149f5 have no parent. 
+2024-07-23 22:57:50.348 +08:00|0.14.9.1.30626|Error|application|BattlEye environment validation failed:  
+2024-07-23 22:57:50.702 +08:00|0.14.9.1.30626|Error|Default| 
+EXCEPTION: System.NullReferenceException: Object reference not set to an instance of an object
+  at EFT.UI.ErrorScreen.smethod_0 (System.String source) [0x00000] in <a5b6eaefee6842aba73e4a77ea14a564>:0 
+  at (wrapper dynamic-method) EFT.UI.ErrorScreen.DMD<EFT.UI.ErrorScreen::Show>(EFT.UI.ErrorScreen,string,string,System.Action,single,System.Action,EFT.UI.ErrorScreen/EButtonType,bool)
+  at EFT.UI.PreloaderUI+Struct925.MoveNext () [0x0004f] in <a5b6eaefee6842aba73e4a77ea14a564>:0 
+2024-07-23 22:58:20.383 +08:00|0.14.9.1.30626|Error|Default|GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+2024-07-23 23:05:09.182 +08:00|0.14.9.1.30626|Error|Default|Compute shader (Scattering Slices): Property (_StencilShadow) at kernel index (0) is not set
+ 
+2024-07-23 23:13:32.455 +08:00|0.14.9.1.30626|Error|Default|Node 63a897c6b1ff6e29734fcc95 have no parent. 
+2024-07-23 23:13:32.455 +08:00|0.14.9.1.30626|Error|Default|Node 63a898a328e385334e0640a5 have no parent. 
+2024-07-23 23:13:32.455 +08:00|0.14.9.1.30626|Error|Default|Node 63a8970d7108f713591149f5 have no parent. 
+2024-07-23 23:13:34.212 +08:00|0.14.9.1.30626|Error|Default|Node 63a897c6b1ff6e29734fcc95 have no parent. 
+2024-07-23 23:13:34.212 +08:00|0.14.9.1.30626|Error|Default|Node 63a898a328e385334e0640a5 have no parent. 
+2024-07-23 23:13:34.212 +08:00|0.14.9.1.30626|Error|Default|Node 63a8970d7108f713591149f5 have no parent. 
+2024-07-23 23:13:35.092 +08:00|0.14.9.1.30626|Error|Default|Node 63a897c6b1ff6e29734fcc95 have no parent. 
+2024-07-23 23:13:35.092 +08:00|0.14.9.1.30626|Error|Default|Node 63a898a328e385334e0640a5 have no parent. 
+2024-07-23 23:13:35.092 +08:00|0.14.9.1.30626|Error|Default|Node 63a8970d7108f713591149f5 have no parent. 
+2024-07-23 23:13:35.901 +08:00|0.14.9.1.30626|Error|Default|Node 63a897c6b1ff6e29734fcc95 have no parent. 
+2024-07-23 23:13:35.901 +08:00|0.14.9.1.30626|Error|Default|Node 63a898a328e385334e0640a5 have no parent. 
+2024-07-23 23:13:35.901 +08:00|0.14.9.1.30626|Error|Default|Node 63a8970d7108f713591149f5 have no parent. 
+2024-07-23 23:13:36.417 +08:00|0.14.9.1.30626|Error|application|BattlEye environment validation failed:  
+2024-07-23 23:13:36.921 +08:00|0.14.9.1.30626|Error|Default| 
+EXCEPTION: System.NullReferenceException: Object reference not set to an instance of an object
+  at EFT.UI.ErrorScreen.smethod_0 (System.String source) [0x00000] in <a5b6eaefee6842aba73e4a77ea14a564>:0 
+  at (wrapper dynamic-method) EFT.UI.ErrorScreen.DMD<EFT.UI.ErrorScreen::Show>(EFT.UI.ErrorScreen,string,string,System.Action,single,System.Action,EFT.UI.ErrorScreen/EButtonType,bool)
+  at EFT.UI.PreloaderUI+Struct925.MoveNext () [0x0004f] in <a5b6eaefee6842aba73e4a77ea14a564>:0 
+2024-07-23 23:14:55.618 +08:00|0.14.9.1.30626|Error|Default| 
+EXCEPTION: System.NullReferenceException: Object reference not set to an instance of an object
+  at MBOIT_Scattering.OnRenderImageMBOITMode (UnityEngine.ComputeBuffer scatteringParameters) [0x00056] in <a5b6eaefee6842aba73e4a77ea14a564>:0 
+  at MBOIT_Scattering.OnPreCull () [0x001a3] in <a5b6eaefee6842aba73e4a77ea14a564>:0 
+2024-07-23 23:14:55.618 +08:00|0.14.9.1.30626|Error|Default|NullReferenceException: Object reference not set to an instance of an object
+MBOIT_Scattering.OnRenderImageMBOITMode (UnityEngine.ComputeBuffer scatteringParameters) (at <a5b6eaefee6842aba73e4a77ea14a564>:0)
+MBOIT_Scattering.OnPreCull () (at <a5b6eaefee6842aba73e4a77ea14a564>:0)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+Class362:UnityEngine.ILogHandler.LogException(Exception, Object)
+UnityEngine.Debug:CallOverridenDebugHandler(Exception, Object)
+ 
+2024-07-23 23:15:11.714 +08:00|0.14.9.1.30626|Error|Default|LayersDefaultStates.Length 3 != _animator.layerCount 0 : weapon_empty_hands_container.bundle 
